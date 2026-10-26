@@ -1421,17 +1421,27 @@ body{margin:0;background:var(--stage);color:var(--ink);font-family:var(--sans);d
 .app .s[data-screen="18"] .pager{display:none}
 .pg-arrow{width:44px;height:44px;border:0;border-radius:50%;background:transparent;color:var(--ink);cursor:pointer;display:grid;place-items:center;flex-shrink:0}
 .pg-arrow[disabled]{opacity:.25;cursor:not-allowed}
+.app .s details.capo>summary{display:flex!important;justify-content:space-between;align-items:center;gap:10px;min-height:48px;padding:4px 0;border-bottom:1px solid #ded5c7;list-style:none;cursor:pointer}
+.app .s details.capo>summary::-webkit-details-marker{display:none}
+.app .s details.capo>summary{font:500 19px/1.2 "Cormorant Garamond",serif!important;color:#212020!important}
+.app .s details.capo>summary>span:not(.ii):not([style*="border-radius:50%"]){font:inherit!important;color:inherit!important;margin-right:0!important}
+.app .s details.capo>summary>.ii{margin-left:auto;flex:none}
+.app .s .capo-wrap ~ .pager{margin-top:0!important}
+.app .s .capo-wrap ~ *{margin-top:0}
 /* PRUEBA: títulos en Montserrat light espaciado */
 .app .s:not([data-screen="00"]) h1{font-family:Montserrat,sans-serif!important;font-weight:300!important;letter-spacing:.1em!important}
 .acc>summary::-webkit-details-marker{display:none}
 .acc[open] .chev{transform:rotate(180deg)}
 .acc>a:last-child{border-bottom:0!important}
-.pg-plus{position:absolute;right:0;bottom:calc(100% + 6px);height:44px;padding:0 14px 0 10px;gap:4px;grid-auto-flow:column;border:1px solid #4a4542;border-radius:22px;background:#fdfbf9;color:#212020;cursor:pointer;display:grid;place-items:center;box-shadow:0 2px 8px rgba(90,76,58,.18)}
+.pg-plus{position:static;flex:none;height:36px;margin-left:4px;padding:0 10px 0 8px;gap:4px;grid-auto-flow:column;border:1px solid #4a4542;border-radius:22px;background:#fdfbf9;color:#212020;cursor:pointer;display:grid;place-items:center;box-shadow:0 2px 8px rgba(90,76,58,.18)}
 .app .s[data-screen="00"],.app .s[data-screen="00"] .pager{background:#ffffff}
 .app .s[data-screen="00"] [stroke="#f8f4ee"]{stroke:#ffffff}
 .app i[style*="background:#ffffff"],.app span[style*="background:#ffffff"]{box-shadow:inset 0 0 0 1px #4a4542}
-.pg-dots{display:flex;align-items:center;justify-content:center;flex-wrap:wrap}
+.pg-dots{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;flex:1;min-width:0}
 .pg-dot{width:22px;height:30px;border:0;background:transparent;cursor:pointer;display:grid;place-items:center;padding:0}
+.pager:has(.pg-plus) .pg-dots{flex-wrap:nowrap}
+.pager:has(.pg-plus) .pg-dot{width:17px}
+.pager:has(.pg-plus) .pg-arrow{width:36px}
 .pg-dot span{display:block;width:8px;height:8px;border-radius:50%;border:1.5px solid #c0b4a2;box-sizing:border-box;transition:background .2s,transform .2s}
 .pg-dot[aria-current="step"] span{background:var(--accent);border-color:var(--accent);transform:scale(1.25)}
 .app .s[data-screen="19"],.app .s[data-screen="18"]{padding-top:44px;padding-bottom:28px;gap:14px;background:#f8f4ee;font-family:var(--sans);color:#212020}
@@ -1724,8 +1734,8 @@ function luScene(k){
   var t=function(x,y,s,sz,c){return '<text x="'+x+'" y="'+y+'" font-family="Open Sans,sans-serif" font-size="'+(sz||12)+'" fill="'+(c||'#4a4542')+'" text-anchor="middle">'+s+'</text>';};
   switch(k){
     case 0: L=luFig('sad'); P='<rect x="170" y="20" width="110" height="140" rx="6" fill="#fdfbf9" stroke="#212020" stroke-width="1.5"/>'+[0,1,2,3,4,5,6,7].map(function(i){return '<path d="M184 '+(40+i*15)+'h'+(60+((i*23)%25))+'" stroke="#c0b4a2" stroke-width="2"/><path d="M178 '+(40+i*15)+'h1" stroke="#212020" stroke-width="3"/>';}).join('')+t(225,175,'Lunes: todo',11); break;
-    case 1: L=luFig('think'); P='<rect x="190" y="18" width="80" height="146" rx="12" fill="#fdfbf9" stroke="#212020" stroke-width="2"/><g transform="translate(230 70)" fill="none" stroke="#212020" stroke-width="1.8" stroke-linecap="round"><circle r="18"/><path d="M-12-18l-4-8M0-20v-9M12-18l4-8"/><path d="M-9-4l6 3M9-4l-6 3"/><path d="M-9 6q9 9 18 0"/></g>'+t(230,112,'¡No te falta',10)+t(230,126,'disciplina!',10)+t(230,146,'@loquito.feliz',9,'#8a6a45'); break;
-    case 2: L=luFig('firm'); P='<circle cx="235" cy="70" r="34" fill="#fdfbf9" stroke="#212020" stroke-width="2"/><circle cx="235" cy="70" r="26" fill="none" stroke="#bf9268" stroke-width="2" stroke-dasharray="4 4"/>'+t(235,76,'?',22,'#212020')+t(235,128,'¿Apostar por mi vida?',11)+t(235,146,'Aunque pierda, aprendo.',11,'#8a6a45'); break;
+    case 1: L=luFig('think'); P='<rect x="190" y="18" width="80" height="146" rx="12" fill="#fdfbf9" stroke="#212020" stroke-width="2"/><g transform="translate(230 70)" fill="none" stroke="#212020" stroke-width="1.8" stroke-linecap="round"><circle r="18"/><path d="M-12-18l-4-8M0-20v-9M12-18l4-8"/><path d="M-9-4l6 3M9-4l-6 3"/><path d="M-9 6q9 9 18 0"/></g>'+t(230,112,'¿Y si',11)+t(230,127,'mapeamos?',11)+t(230,148,'@chiflis.gentil',9,'#8a6a45'); break;
+    case 2: L=luFig('firm'); P='<circle cx="235" cy="70" r="34" fill="#fdfbf9" stroke="#212020" stroke-width="2"/><circle cx="235" cy="70" r="26" fill="none" stroke="#bf9268" stroke-width="2" stroke-dasharray="4 4"/>'+t(235,76,'?',22,'#212020')+t(235,128,'¿Apostar por mi vida?',11); break;
     case 3: L=luFig('firm'); P=river(70,false)+'<g fill="none" stroke="#212020" stroke-width="2.2"><circle cx="175" cy="70" r="6"/><circle cx="305" cy="70" r="6"/></g>'+t(175,40,'Visión',11)+t(305,40,'Misión',11)+t(175,104,'Vivir con',11)+t(175,118,'calma',11)+t(305,104,'Escuchar',11)+t(305,118,'a mi gente',11); break;
     case 4: L=luFig('firm'); P=[['Social','#7b7d55'],['Emocional','#efd49f'],['Racional','#bf9268'],['Corporal','#8c4737']].map(function(r,i){var y=34+i*28,on=i===3;return (on?'<rect x="160" y="'+(y-16)+'" width="120" height="24" rx="12" fill="none" stroke="#212020" stroke-width="1.5"/>':'')+'<circle cx="174" cy="'+(y-4)+'" r="5" fill="'+r[1]+'"/><text x="186" y="'+y+'" font-family="Open Sans,sans-serif" font-size="12" font-weight="'+(on?600:400)+'" fill="'+(on?'#212020':'#6e6762')+'">'+r[0]+'</text>';}).join('')+'<path d="M300 100a16 16 0 1 0 15 22a12 12 0 1 1 -15-22z" fill="#efd49f" stroke="#212020" stroke-width="1.2"/>'+t(230,150,'Dormir mejor:',12)+t(230,166,'menos enojo',12,'#8a6a45'); break;
     case 5: L=luFig('firm'); P=(function(){var v=function(x,d,c){return '<rect x="'+x+'" y="25" width="44" height="120" rx="10" fill="#fdfbf9" stroke="#c0b4a2" stroke-width="1.5"/><path d="M'+x+' '+(145-120*d)+'h44" stroke="'+c+'" stroke-width="2.5" stroke-dasharray="6 5"/>';};return v(190,.8,'#4c9bb3')+v(260,.75,'#3f8f5c')+t(212,162,'Motivada',10)+t(282,162,'Satisfecha',10);})(); break;
@@ -1748,8 +1758,8 @@ function miniCal(){var c=['#8c4737','#f5a097','#8c4737','','#8c4737','#7b7d55','
   return '<svg viewBox="0 0 342 150" style="width:100%;height:auto" aria-hidden="true">'+h+'<text x="171" y="138" text-anchor="middle" font-family="Cormorant Garamond,serif" font-size="26" fill="#212020">Calma</text><text x="96" y="140" font-family="Cormorant Garamond,serif" font-size="15" fill="#6e6762">Euforia</text><text x="222" y="140" font-family="Cormorant Garamond,serif" font-size="15" fill="#6e6762">Cansancio</text></svg>';}
 function storyCards(){return [
   ['Antes','Lu quería cambiar toda su vida el lunes. El miércoles ya había abandonado. Pensaba: «No tengo disciplina».'],
-  ['Una pista','Un día vio en Instagram a un loquito feliz que decía: «No te falta disciplina. Te falta saber en qué niveles de tu vida apostar». Así encontró ESTIMAT.'],
-  ['Una idea rara','Apostar por los niveles de su propia vida le pareció raro. Pero apostar la motivaba. Y aunque perdiera, cada apuesta le enseñaba algo de sí.'],
+  ['Una pista','Un día vio en Instagram a un chiflado gentil que decía: «¿Y si te falta saber en qué niveles de tu vida apostar?». Así encontró ESTIMAT.'],
+  ['Una idea rara','Apostar por los niveles de su propia vida le pareció raro. Pero apostar la motivaba.'],
   ['Su mapa','Imaginó su yo dentro de 1 año. Visión: «Vivir con calma». Misión: «Escuchar a mi gente».'],
   ['Lo que notó','Al dividir su mapa en niveles, vio que casi todo pasaba en su nivel corporal: dormir. Dormía mal y andaba enojada. En su mapa, dormir mejor era la apuesta con más costo-beneficio.'],
   ['La apuesta','Apostó que dormir antes de las 23 la haría despertar más motivada y más satisfecha.'],
@@ -2390,7 +2400,7 @@ function pager(id){
     return '<button class="pg-dot" data-go="'+k+'" aria-label="'+sec[1]+': pantalla '+(i+1)+' de '+sec[0].length+'"'+(k===n?' aria-current="step"':'')+'><span></span></button>';
   }).join('');
   var plus=(sec[1]==='Actividad'&&n!==17&&STORY<0)?'<button class="pg-plus" data-plus aria-label="Guardar y empezar otra actividad" title="Guardar y empezar otra actividad"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M10 4v12M4 10h12"/></svg><span style="font:500 12px var(--sans)">Nueva</span></button>':'';
-  return (plus?'<div aria-hidden="true" style="height:52px;flex-shrink:0"></div>':'')+'<nav class="pager" aria-label="Navegación de '+sec[1]+'">'+plus+'<button class="pg-arrow" data-pager="prev" aria-label="Pantalla anterior"'+(n===0?' disabled':'')+'>'+chev('M13.5 5L7.5 11l6 6')+'</button><div class="pg-dots">'+dots+'</div><button class="pg-arrow" data-pager="next" aria-label="Pantalla siguiente">'+chev('M8.5 5l6 6-6 6')+'</button></nav>';
+  return '<nav class="pager" aria-label="Navegación de '+sec[1]+'"><button class="pg-arrow" data-pager="prev" aria-label="Pantalla anterior"'+(n===0?' disabled':'')+'>'+chev('M13.5 5L7.5 11l6 6')+'</button><div class="pg-dots">'+dots+'</div>'+plus+'<button class="pg-arrow" data-pager="next" aria-label="Pantalla siguiente">'+chev('M8.5 5l6 6-6 6')+'</button></nav>';
 }
 /* ---------- render ---------- */
 function body(id){
@@ -2467,6 +2477,9 @@ function quiz(s){
   requestAnimationFrame(frame);
 }
 function hook(s,id){
+  $$('details.inf>summary',s).forEach(function(sm){var d=sm.parentElement; if(!sm.querySelector('.ii')) return; d.classList.add('capo');
+    $$('.tt',sm).forEach(function(x){x.remove();}); var ii=sm.querySelector('.ii'); sm.appendChild(ii);
+    var w=d; while(w&&w.parentElement&&w.parentElement!==s) w=w.parentElement; if(w&&w.parentElement!==s) w=null; if(w){w.style.marginTop='auto';w.style.paddingTop=w.style.paddingTop||'14px';w.classList.add('capo-wrap');}});
   $$('[data-bind]',s).forEach(function(el){
     el.value=getp(el.getAttribute('data-bind'))||'';
     el.addEventListener('input',function(){setp(el.getAttribute('data-bind'),el.value);save();});
