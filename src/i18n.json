@@ -844,8 +844,8 @@
   "pt": "Com o tempo, você vê quanta satisfação vai somando"
  },
  "k0212": {
-  "es": "satisfacción acumulada en 25 días. Caños de colores encajan a la izquierda y llevan agua al",
-  "pt": "satisfação acumulada em 25 dias. Canos coloridos se encaixam à esquerda e levam água ao"
+  "es": "satisfacción acumulada en 31 días. Caños de colores encajan a la izquierda y llevan agua al",
+  "pt": "satisfação acumulada em 31 dias. Canos coloridos se encaixam à esquerda e levam água ao"
  },
  "k0213": {
   "es": "Satisfacción acumulada con la",
@@ -855,17 +855,13 @@
   "es": "días",
   "pt": "dias"
  },
- "k0215": {
-  "es": "Si seguías al ritmo del inicio",
-  "pt": "Se seguisse o ritmo do início"
- },
  "k0216": {
   "es": "Origen del ejemplo",
   "pt": "Origem do exemplo"
  },
  "k0217": {
-  "es": "Ejemplo ilustrativo, con datos reales: 25 días de quien creó la app ESTIMAT. No son tus datos ni una promesa. La diferencia viene sobre todo de una semana baja, del 23 al 29 de octubre. No prueba la",
-  "pt": "Exemplo ilustrativo, com dados reais: 25 dias de quem criou o app ESTIMAT. Não são seus dados nem uma promessa. A diferença vem sobretudo de uma semana baixa, de 23 a 29 de outubro. Não prova a"
+  "es": "Ejemplo con datos reales: 31 días de quien creó la app ESTIMAT. Suma la satisfacción de cada retorno registrado, para no perder la noción del todo. No son tus datos ni una promesa. No prueba la",
+  "pt": "Exemplo com dados reais: 31 dias de quem criou o app ESTIMAT. Soma a satisfação de cada retorno registrado, para não perder a noção do todo. Não são seus dados nem uma promessa. Não prova a"
  },
  "k0218": {
   "es": "Nuestra apuesta: si te conoces mejor, ganas más bienestar a largo plazo",
@@ -1096,8 +1092,8 @@
   "pt": "A satisfação acumulada soma, dia a dia, sua satisfação média. Cada ação conta pela sua duração. O resto do dia recebe a nota do seu período, ou sua média geral se não houver. Não compare seu número com o de outras pessoas"
  },
  "k0275": {
-  "es": "nivel libera nuevas funciones.</b> Nivel 2: eliges metas de tu mapa al invertir y en el retorno. En el afecto se suman Neutro y Media, con sus números. Nivel 3: rutinas de inversión que llevas a tu calendario. En el afecto, barras para afinar, el nombre de la emoción y la opción «Empezar por el nivel». Nivel 4: metas con plazo. Nivel 5: retorno automático, próximamente",
-  "pt": "nível libera novas funções.</b> Nível 2: você escolhe metas do seu mapa ao investir e no retorno. No afeto, somam-se Neutro e Média, com seus números. Nível 3: rotinas de investimento que você leva ao seu calendário. No afeto, barras para afinar, o nome da emoção e a opção «Começar pelo nível». Nível 4: metas com prazo. Nível 5: retorno automático, em breve"
+  "es": "nivel libera nuevas funciones.</b> Nivel 2: eliges metas de tu mapa al invertir y en el retorno. Se abre el afecto: cómo te sientes al invertir y en el retorno, con Neutro, Media y sus números. Nivel 3: rutinas de inversión que llevas a tu calendario. En el afecto, barras para afinar, el nombre de la emoción y la opción «Empezar por el nivel». Nivel 4: metas con plazo. Nivel 5: retorno automático, próximamente",
+  "pt": "nível libera novas funções.</b> Nível 2: você escolhe metas do seu mapa ao investir e no retorno. Abre-se o afeto: como você se sente ao investir e no retorno, com Neutro, Média e seus números. Nível 3: rotinas de investimento que você leva ao seu calendário. No afeto, barras para afinar, o nome da emoção e a opção «Começar pelo nível». Nível 4: metas com prazo. Nível 5: retorno automático, em breve"
  },
  "k0276": {
   "es": "Volver al inicio",
@@ -1448,8 +1444,8 @@
   "pt": "Em que nível você sente?',fi:'Que tipo?',em:'Qual é?',mo:'Algo mais específico?',at:'Veio de um atalho?',no:'Não',just:'É ',just2:', só isso',imita:'Imita: ',from:'Apoia-se em: ',up:'Sobe de nível: ',via:'atalho',kz:'Kurzban: ',src:'Funções: hipóteses evolutivas, resumo nosso.',srcq:'Ver fontes',srcl:'Fonte',clr:'Apagar afeto"
  },
  "k0363": {
-  "es": "Ya ganaste',t:'Próximo nivel',l:[['Nivel 2','Elegir metas de tu mapa al invertir y al evaluar el retorno. En el afecto: Neutro, Media y sus números.','Se libera al completar tu mapa e invertir en una acción.'],['Nivel 3','Rutinas de inversión que llevas a tu calendario. En el afecto: barras, nombres de emociones y «Empezar por el nivel».','Ya invertidas: solo registras el retorno. Se libera al completar el nivel 2.'],['Nivel 4','Metas con plazo: les pones fecha y las cumples a tiempo.','Se libera con 3 misiones: 30 retornos confirmados, 10 con la emoción nombrada en los 4 niveles y 3 fuentes leídas",
-  "pt": "Você já ganhou',t:'Próximo nível',l:[['Nível 2','Escolher metas do seu mapa ao investir e ao avaliar o retorno. No afeto: Neutro, Média e seus números.','É liberado ao completar seu mapa e investir em uma ação.'],['Nível 3','Rotinas de investimento que você leva ao seu calendário. No afeto: barras, nomes de emoções e «Começar pelo nível».','Já investidas: você só registra o retorno. É liberado ao completar o nível 2.'],['Nível 4','Metas com prazo: você põe data e as cumpre a tempo.','Libera com 3 missões: 30 retornos confirmados, 10 com a emoção nomeada nos 4 níveis e 3 fontes lidas"
+  "es": "Ya ganaste',t:'Próximo nivel',l:[['Nivel 2','Elegir metas de tu mapa al invertir y al evaluar el retorno. Se abre el afecto: cómo te sientes, con Neutro, Media y sus números.','Se libera al completar tu mapa e invertir en una acción.'],['Nivel 3','Rutinas de inversión que llevas a tu calendario. En el afecto: barras, nombres de emociones y «Empezar por el nivel».','Ya invertidas: solo registras el retorno. Se libera al completar el nivel 2.'],['Nivel 4','Metas con plazo: les pones fecha y las cumples a tiempo.','Se libera con 3 misiones: 30 retornos confirmados, 10 con la emoción nombrada en los 4 niveles y 3 fuentes leídas",
+  "pt": "Você já ganhou',t:'Próximo nível',l:[['Nível 2','Escolher metas do seu mapa ao investir e ao avaliar o retorno. Abre-se o afeto: como você se sente, com Neutro, Média e seus números.','É liberado ao completar seu mapa e investir em uma ação.'],['Nível 3','Rotinas de investimento que você leva ao seu calendário. No afeto: barras, nomes de emoções e «Começar pelo nível».','Já investidas: você só registra o retorno. É liberado ao completar o nível 2.'],['Nível 4','Metas com prazo: você põe data e as cumpre a tempo.','Libera com 3 missões: 30 retornos confirmados, 10 com a emoção nomeada nos 4 níveis e 3 fontes lidas"
  },
  "k0364": {
   "es": "Rutinas',i:'Nivel 3: convierte una inversión en rutina. Ya está invertida: solo registras el retorno.',nw:'Nueva rutina',pick:'Elige una inversión',days:['D','L','M','X','J','V','S'],hr:'Hora',save:'Guardar rutina',cancel:'Cancelar',ret:'Retorno',gc:'Google',ics:'Calendario .ics',del:'Quitar',today:'hoy',done:'Hecho hoy',none:'Primero invierte en una acción",
@@ -3166,5 +3162,25 @@
  "k0792": {
   "es": "Guardado",
   "pt": "Salvo"
+ },
+ "k0793": {
+  "es": "El plan: divides, de a poco, tus expectativas en metas específicas.",
+  "pt": "O plano: você divide, aos poucos, suas expectativas em metas específicas."
+ },
+ "k0794": {
+  "es": "Con tus metas divididas, apostamos a que vas a",
+  "pt": "Com suas metas divididas, apostamos que você vai"
+ },
+ "k0795": {
+  "es": "fluir de las",
+  "pt": "fluir das"
+ },
+ "k0796": {
+  "es": "Metas divididas: cada ✓ cae como una pelota en el frasco; al llenarse, el frasco pasa a la galería.",
+  "pt": "Metas divididas: cada ✓ cai como uma bola no pote; quando enche, o pote vai para a galeria."
+ },
+ "k0797": {
+  "es": "Galería",
+  "pt": "Galeria"
  }
 }
