@@ -38,8 +38,9 @@ def svg():
     filas = [(30, 0, 118), (74, 1, 92), (118, 3, 106), (162, 4, 84), (206, 6, 112)]
     t0, dt = 0.8, 1.0
     jx, jy, js = 226, 56, 1.1
-    base = pila(27, 3)
+    base = pila(47, 3)
     ini, nuevas = base[:22], base[22:]
+    caen = []  # pelotas que caen en el frasco principal
     for i, (y, ci, ancho) in enumerate(filas):
         c = COL[ci]
         b = t0 + i * dt
@@ -52,29 +53,37 @@ def svg():
                  'stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur=".3s" '
                  'begin="%.2fs" fill="freeze"/></path>' % (y, b))
         # la pelota sale del ✓ y cae en el frasco
-        sx, sy = nuevas[i]
-        X, Y = jx + js * sx, jy + js * sy
-        mx, my = jx + js * 42, jy - 8
-        o.append('<circle r="%.1f" fill="%s" opacity="0"><set attributeName="opacity" to="1" begin="%.2fs" fill="freeze"/>'
-                 '<animateMotion dur=".9s" begin="%.2fs" fill="freeze" path="M184 %d Q%.0f %.0f %.1f %.1f L%.1f %.1f" '
-                 'keyPoints="0;.55;1" keyTimes="0;.5;1" calcMode="linear"/></circle>'
-                 % (R * js, c, b + .3, b + .3, y, (184 + mx) / 2, min(y, my) - 40, mx, my, X, Y))
+        for j in range(5):
+            sx, sy = nuevas[i * 5 + j]
+            X, Y = jx + js * sx, jy + js * sy
+            mx, my = jx + js * 42, jy - 8
+            bj = b + .3 + j * .12
+            caen.append('<circle r="%.1f" fill="%s" opacity="0"><set attributeName="opacity" to="1" begin="%.2fs" fill="freeze"/>'
+                     '<animateMotion dur=".9s" begin="%.2fs" fill="freeze" path="M184 %d Q%.0f %.0f %.1f %.1f L%.1f %.1f" '
+                     'keyPoints="0;.55;1" keyTimes="0;.5;1" calcMode="linear"/></circle>'
+                     % (R * js, COL[(ci + j) % 8] if j else c, bj, bj, y, (184 + mx) / 2, min(y, my) - 40, mx, my, X, Y))
     # frasco a la mitad
-    o.append(frasco(jx, jy, js, [(p, COL[rnd.randrange(8)]) for p in ini], 2))
+    fin = t0 + len(filas) * dt + .6
+    k = (34 / 84) / js
+    tx, ty = 8 + 4 * 42 - k * jx, 252 - k * jy
+    o.append('<g>' + frasco(jx, jy, js, [(p, COL[rnd.randrange(8)]) for p in ini], 2) + ''.join(caen) +
+             '<animateTransform attributeName="transform" type="translate" values="0,0;%.1f,%.1f" dur=".8s" begin="%.2fs" fill="freeze"/>'
+             '<animateTransform attributeName="transform" type="scale" additive="sum" values="1;%.3f" dur=".8s" begin="%.2fs" fill="freeze"/>'
+             '<animate attributeName="opacity" from="1" to="0" dur=".2s" begin="%.2fs" fill="freeze"/></g>'
+             % (tx, ty, fin, k, fin, fin + .9))
     # estante con frascos llenos
     o.append('<text x="8" y="244" font-family="Open Sans,sans-serif" font-size="12" font-weight="600" fill="#9a918a">{{t:SHELF}}</text>')
     o.append('<path d="M8 300H334" stroke="#c0b4a2" stroke-width="2" stroke-linecap="round"/>')
-    lleno = pila(48, 11)
+    lleno = pila(56, 11)
     for k in range(5):
         g = frasco(0, 0, 34 / 84, [(p, COL[rnd.randrange(8)]) for p in lleno], 4)
         x = 8 + k * 42
         if k < 4:
             o.append('<g transform="translate(%d,252)">%s</g>' % (x, g))
         else:  # el quinto llega al final
-            b = t0 + len(filas) * dt + .4
+            b = fin + .75
             o.append('<g transform="translate(%d,252)" opacity="0"><set attributeName="opacity" to="1" begin="%.2fs" fill="freeze"/>'
-                     '<animateTransform attributeName="transform" type="translate" values="%d,232;%d,252" dur=".5s" '
-                     'begin="%.2fs" fill="freeze"/>%s</g>' % (x, b, x, x, b, g))
+                     '%s</g>' % (x, b, g))
     o.append('</svg>')
     return ''.join(o)
 

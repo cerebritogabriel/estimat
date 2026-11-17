@@ -3180,11 +3180,11 @@
   "pt": "fluir das"
  },
  "k0796": {
-  "es": "Metas divididas: cada ✓ cae como una pelota en el frasco. Abajo, el estante con frascos llenos.",
-  "pt": "Metas divididas: cada ✓ cai como uma bola no pote. Embaixo, a prateleira com potes cheios."
+  "es": "Metas divididas: cada ✓ cae como pelotas en el frasco; al llenarse, el frasco pasa a la galería.",
+  "pt": "Metas divididas: cada ✓ cai como bolas no pote; quando enche, o pote vai para a galeria."
  },
  "k0797": {
-  "es": "Frascos llenos",
-  "pt": "Potes cheios"
+  "es": "Galería",
+  "pt": "Galeria"
  }
 }
