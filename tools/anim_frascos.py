@@ -10,15 +10,22 @@ R = 4.6
 
 
 def pila(n, seed):
-    """Posiciones (x, y) dentro del frasco (coordenadas 84x112), de abajo hacia arriba."""
+    """Posiciones (x, y) dentro del frasco (coordenadas 84x112), de abajo hacia arriba hasta el cuello.
+    n=None devuelve el frasco completo."""
     rnd = random.Random(seed)
     out = []
-    for i in range(n):
-        fila, col = divmod(i, 6)
-        x = 12 + R + col * 2 * R + (rnd.random() - .5) * R * .6 + (R if fila % 2 else 0) * .5
-        y = 104 - R - fila * (2 * R - 1.5)
-        out.append((x, y))
-    return out
+    y, fila = 104 - R, 0
+    while y > 6:
+        if y >= 44: a, b = 9, 75
+        elif y >= 14:
+            f = (44 - y) / 30.0; a, b = 9 + f * 19, 75 - f * 19
+        else: a, b = 27, 57
+        k = max(1, int((b - a - (R if fila % 2 else 0)) // (2 * R)))
+        x0 = (a + b) / 2 - (k - 1) * R + (R * .5 if fila % 2 else 0) * (1 if k > 3 else 0)
+        for c in range(k):
+            out.append((x0 + c * 2 * R + (rnd.random() - .5) * R * .5, y + (rnd.random() - .5)))
+        y -= 2 * R - 1.4; fila += 1
+    return out if n is None else out[:n]
 
 
 def frasco(tx, ty, s, bolas, sw):
@@ -38,8 +45,8 @@ def svg():
     filas = [(30, 0, 118), (74, 1, 92), (118, 3, 106), (162, 4, 84), (206, 6, 112)]
     t0, dt = 0.8, 1.0
     jx, jy, js = 226, 56, 1.1
-    base = pila(47, 3)
-    ini, nuevas = base[:22], base[22:]
+    base = pila(None, 3)
+    ini, nuevas = base[:-5], base[-5:]
     caen = []  # pelotas que caen en el frasco principal
     for i, (y, ci, ancho) in enumerate(filas):
         c = COL[ci]
@@ -53,8 +60,8 @@ def svg():
                  'stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur=".3s" '
                  'begin="%.2fs" fill="freeze"/></path>' % (y, b))
         # la pelota sale del ✓ y cae en el frasco
-        for j in range(5):
-            sx, sy = nuevas[i * 5 + j]
+        for j in range(1):
+            sx, sy = nuevas[i + j]
             X, Y = jx + js * sx, jy + js * sy
             mx, my = jx + js * 42, jy - 8
             bj = b + .3 + j * .12
@@ -74,7 +81,7 @@ def svg():
     # estante con frascos llenos
     o.append('<text x="8" y="244" font-family="Open Sans,sans-serif" font-size="12" font-weight="600" fill="#9a918a">{{t:SHELF}}</text>')
     o.append('<path d="M8 300H334" stroke="#c0b4a2" stroke-width="2" stroke-linecap="round"/>')
-    lleno = pila(56, 11)
+    lleno = pila(None, 11)
     for k in range(5):
         g = frasco(0, 0, 34 / 84, [(p, COL[rnd.randrange(8)]) for p in lleno], 4)
         x = 8 + k * 42
