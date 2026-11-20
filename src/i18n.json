@@ -2200,8 +2200,8 @@
   "pt": "Pense no que realizar para ficar mais satisfeito.',c:'Pense no que conquistar para ficar mais satisfeito.',o:'Pense no que oferecer para ficar mais satisfeito"
  },
  "k0552": {
-  "es": "Invertir',intro:'Introducción a invertir',af:'1. Afecto al iniciar',meta:'2. ¿En qué meta inviertes?',meta0:'2. ¿En qué inviertes?',pick:'Elegir en el mapa',flu:'2.1 Intención de flujo',niv:'2.2 Nivel de meta',per:'3. Tiempo',perq:'¿Por cuánto tiempo quieres mantener el enfoque de esta inversión? Al hacer el retorno, se resta el tiempo de otras acciones que se superpusieron y ya tienen retorno.',perTip:'¿Por qué importa el tiempo?',perTx1:'Solemos calcular mal cuánto tarda algo. Casi siempre creemos que será más rápido. Se llama falacia de planificación: calcular de menos.',perTx2:'Elegir el tiempo te obliga a pensarlo. Después, en Retorno, puedes comparar lo previsto con lo real.',inv:'4. Energía y satisfacción esperadas',plan:'5. Plan',esp:'6. Especificaciones',espT:'Título',espPh:'Título: 2 o 3 palabras',espAuto:'Automático: ',espN:'Especificación (opcional)',note:'Completa lo que quieras. El tiempo es obligatorio.',fm:'Mapear',fi:'Invertir',fr:'Retorno',conf:'Confirmar inversión',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tiempo',mInv:'recipientes',ok:'Inversión confirmada · ',closes:'cierra en ',atEnd:'evalúa al terminar',bay:'¿Cómo se mezcla tu predicción?',lastN:'La última vez escribiste:',pdq:'¿Cuánto tiempo por día planeas dedicarle?',opt:'(opcional)',pday:'por día',draft:'Borrador guardado',reset:'Reiniciar',afq:'Sobre el afecto',afr:'Si cambias una respuesta, las siguientes se rehacen.',prev:'Pantalla anterior',next:'Pantalla siguiente",
-  "pt": "Investir',intro:'Introdução a investir',af:'1. Afeto ao iniciar',meta:'2. Em que meta você investe?',meta0:'2. Em que você investe?',pick:'Escolher no mapa',flu:'2.1 Intenção de fluxo',niv:'2.2 Nível de meta',per:'3. Tempo',perq:'Por quanto tempo você quer manter o foco deste investimento? No retorno, desconta-se o tempo de outras ações que se sobrepuseram e já têm retorno.',perTip:'Por que o tempo importa?',perTx1:'Costumamos calcular mal quanto algo demora. Quase sempre achamos que será mais rápido. Isso se chama falácia do planejamento: calcular de menos.',perTx2:'Escolher o tempo obriga você a pensar nisso. Depois, em Retorno, você pode comparar o previsto com o real.',inv:'4. Energia e satisfação esperadas',plan:'5. Plano',esp:'6. Especificações',espT:'Título',espPh:'Título: 2 ou 3 palavras',espAuto:'Automático: ',espN:'Especificação (opcional)',note:'Complete o que quiser. O tempo é obrigatório.',fm:'Mapear',fi:'Investir',fr:'Retorno',conf:'Confirmar investimento',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tempo',mInv:'recipientes',ok:'Investimento confirmado · ',closes:'fecha em ',atEnd:'avalie ao terminar',bay:'Como sua previsão se mistura?',lastN:'Da última vez você escreveu:',pdq:'Quanto tempo por dia você planeja dedicar?',opt:'(opcional)',pday:'por dia',draft:'Rascunho salvo',reset:'Reiniciar',afq:'Sobre o afeto',afr:'Se você mudar uma resposta, as seguintes são refeitas.',prev:'Tela anterior',next:'Próxima tela"
+  "es": "Invertir',intro:'Introducción a invertir',af:'1. Afecto y emoción al iniciar',meta:'2. ¿En qué meta inviertes?',meta0:'2. ¿En qué inviertes?',pick:'Elegir en el mapa',flu:'2.1 Intención de flujo',niv:'2.2 Nivel de meta',per:'3. Tiempo',perq:'¿Por cuánto tiempo quieres mantener el enfoque de esta inversión? Al hacer el retorno, se resta el tiempo de otras acciones que se superpusieron y ya tienen retorno.',perTip:'¿Por qué importa el tiempo?',perTx1:'Solemos calcular mal cuánto tarda algo. Casi siempre creemos que será más rápido. Se llama falacia de planificación: calcular de menos.',perTx2:'Elegir el tiempo te obliga a pensarlo. Después, en Retorno, puedes comparar lo previsto con lo real.',inv:'4. Energía y satisfacción esperadas',plan:'5. Plan',esp:'6. Especificaciones',espT:'Título',espPh:'Título: 2 o 3 palabras',espAuto:'Automático: ',espN:'Especificación (opcional)',note:'Completa lo que quieras. El tiempo es obligatorio.',fm:'Mapear',fi:'Invertir',fr:'Retorno',conf:'Confirmar inversión',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tiempo',mInv:'recipientes',ok:'Inversión confirmada · ',closes:'cierra en ',atEnd:'evalúa al terminar',bay:'¿Cómo se mezcla tu predicción?',lastN:'La última vez escribiste:',pdq:'¿Cuánto tiempo por día planeas dedicarle?',opt:'(opcional)',pday:'por día',draft:'Borrador guardado',reset:'Reiniciar',afq:'Sobre el afecto',afr:'Si cambias una respuesta, las siguientes se rehacen.',prev:'Pantalla anterior',next:'Pantalla siguiente",
+  "pt": "Investir',intro:'Introdução a investir',af:'1. Afeto e emoção ao iniciar',meta:'2. Em que meta você investe?',meta0:'2. Em que você investe?',pick:'Escolher no mapa',flu:'2.1 Intenção de fluxo',niv:'2.2 Nível de meta',per:'3. Tempo',perq:'Por quanto tempo você quer manter o foco deste investimento? No retorno, desconta-se o tempo de outras ações que se sobrepuseram e já têm retorno.',perTip:'Por que o tempo importa?',perTx1:'Costumamos calcular mal quanto algo demora. Quase sempre achamos que será mais rápido. Isso se chama falácia do planejamento: calcular de menos.',perTx2:'Escolher o tempo obriga você a pensar nisso. Depois, em Retorno, você pode comparar o previsto com o real.',inv:'4. Energia e satisfação esperadas',plan:'5. Plano',esp:'6. Especificações',espT:'Título',espPh:'Título: 2 ou 3 palavras',espAuto:'Automático: ',espN:'Especificação (opcional)',note:'Complete o que quiser. O tempo é obrigatório.',fm:'Mapear',fi:'Investir',fr:'Retorno',conf:'Confirmar investimento',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tempo',mInv:'recipientes',ok:'Investimento confirmado · ',closes:'fecha em ',atEnd:'avalie ao terminar',bay:'Como sua previsão se mistura?',lastN:'Da última vez você escreveu:',pdq:'Quanto tempo por dia você planeja dedicar?',opt:'(opcional)',pday:'por dia',draft:'Rascunho salvo',reset:'Reiniciar',afq:'Sobre o afeto',afr:'Se você mudar uma resposta, as seguintes são refeitas.',prev:'Tela anterior',next:'Próxima tela"
  },
  "k0553": {
   "es": "en '+PERN[c]:'al",
@@ -4102,5 +4102,45 @@
  "k1027": {
   "es": "Leach y Cidam (2015), JPSP.",
   "pt": "Leach e Cidam (2015), JPSP."
+ },
+ "k1028": {
+  "es": "Plan de seguridad",
+  "pt": "Plano de segurança"
+ },
+ "k1029": {
+  "es": "Stanley, Brown y col. (2018), JAMA Psychiatry.",
+  "pt": "Stanley, Brown e col. (2018), JAMA Psychiatry."
+ },
+ "k1030": {
+  "es": "En unos 1200 pacientes de emergencias con riesgo suicida, un plan de seguridad con llamadas de seguimiento redujo a la mitad la conducta suicida en seis meses.",
+  "pt": "Em cerca de 1200 pacientes de emergência com risco suicida, um plano de segurança com ligações de acompanhamento reduziu pela metade a conduta suicida em seis meses."
+ },
+ "k1031": {
+  "es": "Por eso «Querer morir» y «Autodestrucción» proponen armar tu plan, mejor con alguien.",
+  "pt": "Por isso «Querer morrer» e «Autodestruição» propõem montar seu plano, melhor com alguém."
+ },
+ "k1032": {
+  "es": "Estudio de cohorte en veteranos, no aleatorizado; funciona mejor explicado por otra persona que como un papel para llenar.",
+  "pt": "Estudo de coorte com veteranos, não randomizado; funciona melhor explicado por outra pessoa do que como um papel para preencher."
+ },
+ "k1033": {
+  "es": "El suspiro cíclico",
+  "pt": "O suspiro cíclico"
+ },
+ "k1034": {
+  "es": "Balban, Neri, Kogon y col. (2023), Cell Reports Medicine.",
+  "pt": "Balban, Neri, Kogon e col. (2023), Cell Reports Medicine."
+ },
+ "k1035": {
+  "es": "Ensayo aleatorizado de un mes: 5 minutos diarios de respiración, sobre todo el suspiro con exhalación larga, mejoraron más el ánimo que la meditación de atención plena.",
+  "pt": "Ensaio randomizado de um mês: 5 minutos diários de respiração, sobretudo o suspiro com expiração longa, melhoraram mais o ânimo que a meditação de atenção plena."
+ },
+ "k1036": {
+  "es": "Por eso el plan sugiere el suspiro para calmarte.",
+  "pt": "Por isso o plano sugere o suspiro para se acalmar."
+ },
+ "k1037": {
+  "es": "Muestra chica (108 personas) y sin personas en crisis; no está probado para el riesgo suicida.",
+  "pt": "Amostra pequena (108 pessoas) e sem pessoas em crise; não foi testado para o risco suicida."
  }
 }
