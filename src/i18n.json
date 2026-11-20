@@ -316,8 +316,8 @@
   "pt": "dividir para conquistar #busca binária #teoria da informação"
  },
  "k0080": {
-  "es": "Piensa qué hacer a nivel social para estar más satisfecho",
-  "pt": "Pense no que fazer no nível social para ficar mais satisfeito"
+  "es": "Piensa qué necesitas mejorar a nivel social",
+  "pt": "Pense no que você precisa melhorar no nível social"
  },
  "k0081": {
   "es": "Ramas del nivel social: 8 cauces que bajan hasta las 4 bolitas azules del nivel",
@@ -420,8 +420,8 @@
   "pt": "Não é absoluto. É relativo a você e aos seus outros"
  },
  "k0106": {
-  "es": "Piensa qué hacer a nivel emocional para estar más satisfecho",
-  "pt": "Pense no que fazer no nível emocional para ficar mais satisfeito"
+  "es": "Piensa qué necesitas mejorar a nivel emocional",
+  "pt": "Pense no que você precisa melhorar no nível emocional"
  },
  "k0107": {
   "es": "Nivel emocional: 4 cauces que bajan desde 4 bolitas azules hasta 2 bolitas moradas",
@@ -472,8 +472,8 @@
   "pt": "Quero aprender o que me apaixona"
  },
  "k0119": {
-  "es": "Piensa qué hacer a nivel racional para estar más satisfecho",
-  "pt": "Pense no que fazer no nível racional para ficar mais satisfeito"
+  "es": "Piensa qué necesitas mejorar a nivel racional",
+  "pt": "Pense no que você precisa melhorar no nível racional"
  },
  "k0120": {
   "es": "Nivel racional: 2 cauces que bajan desde 2 bolitas moradas hasta la bolita del nivel",
@@ -552,8 +552,8 @@
   "pt": "Quero organizar minha"
  },
  "k0139": {
-  "es": "Piensa qué hacer a nivel corporal para estar más satisfecho",
-  "pt": "Pense no que fazer no nível corporal para ficar mais satisfeito"
+  "es": "Piensa qué necesitas mejorar a nivel corporal",
+  "pt": "Pense no que você precisa melhorar no nível corporal"
  },
  "k0140": {
   "es": "Nivel corporal: una bolita coral con la entrada a la derecha y la salida a la izquierda, simétricas y del mismo tamaño",
@@ -2181,7 +2181,7 @@
  },
  "k0547": {
   "es": "concluidas',t:'Palabras más usadas en el período',ideal:'Acción ideal',sign:'Significativa',obst:'Obstáculo',plan:'Plan',nt:'Notas y especificaciones',none:'Todavía no hay palabras.',sz:'Tamaño según cuántas veces usaste la palabra. Color de la meta donde más la usaste",
-  "pt": "concluídas',t:'Palabras más usadas en el período',ideal:'Ação ideal',sign:'Significativa',obst:'Obstáculo',plan:'Plano',nt:'Notas y especificaciones',none:'Todavía no hay palabras.',sz:'Tamanho segundo quantas vezes você usou a palavra. Cor da meta onde você mais a usou"
+  "pt": "concluídas',t:'Palavras mais usadas no período',ideal:'Ação ideal',sign:'Significativa',obst:'Obstáculo',plan:'Plano',nt:'Notas e especificações',none:'Ainda não há palavras.',sz:'Tamanho segundo quantas vezes você usou a palavra. Cor da meta onde você mais a usou"
  },
  "k0548": {
   "es": "¿Qué período abarca?',tq:'¿Cuánto tiempo real le dedicaste en ese período?',ob:'¿Qué obstáculo apareció?',pl:'¿Qué hiciste frente a él?',obp:'Escribe el obstáculo',plp:'Escribe lo que hiciste",
@@ -3182,5 +3182,925 @@
  "k0797": {
   "es": "Galería",
   "pt": "Galeria"
+ },
+ "k0798": {
+  "es": "satisfacción",
+  "pt": "satisfação"
+ },
+ "k0799": {
+  "es": "Menú",
+  "pt": "Menu"
+ },
+ "k0800": {
+  "es": "cumplimiento",
+  "pt": "cumprimento"
+ },
+ "k0801": {
+  "es": "El cansancio como señal del cuerpo",
+  "pt": "O cansaço como sinal do corpo"
+ },
+ "k0802": {
+  "es": "Propone que sensaciones como el cansancio, el hambre o la sed son emociones homeostáticas: avisan el estado interno del cuerpo y empujan a equilibrarlo.",
+  "pt": "Propõe que sensações como o cansaço, a fome ou a sede são emoções homeostáticas: avisam o estado interno do corpo e empurram a equilibrá-lo."
+ },
+ "k0803": {
+  "es": "Por eso el cansancio corporal está en el nivel Corporal, junto al hambre y el sueño.",
+  "pt": "Por isso o cansaço corporal está no nível Corporal, junto à fome e ao sono."
+ },
+ "k0804": {
+  "es": "Es una revisión teórica, basada en estudios de anatomía y de imágenes cerebrales. Es influyente, pero la idea de «emoción homeostática» sigue en debate.",
+  "pt": "É uma revisão teórica, baseada em estudos de anatomia e de imagens cerebrais. É influente, mas a ideia de «emoção homeostática» segue em debate."
+ },
+ "k0805": {
+  "es": "El cansancio mental como costo de oportunidad",
+  "pt": "O cansaço mental como custo de oportunidade"
+ },
+ "k0806": {
+  "es": "Proponen que el cansancio mental no es combustible que se gasta. Es una señal de que seguir con la tarea cuesta más que la mejor alternativa.",
+  "pt": "Propõem que o cansaço mental não é combustível que se gasta. É um sinal de que continuar na tarefa custa mais do que a melhor alternativa."
+ },
+ "k0807": {
+  "es": "Por eso el cansancio mental está en el nivel Racional, junto al esfuerzo y el aburrimiento.",
+  "pt": "Por isso o cansaço mental está no nível Racional, junto ao esforço e ao tédio."
+ },
+ "k0808": {
+  "es": "Son revisiones teóricas. La idea de «agotar la fuerza de voluntad» no se replicó bien, y eso apoya el modelo del costo. El modelo del costo todavía se está poniendo a prueba.",
+  "pt": "São revisões teóricas. A ideia de «esgotar a força de vontade» não se replicou bem, e isso apoia o modelo do custo. O modelo do custo ainda está sendo testado."
+ },
+ "k0809": {
+  "es": "Respirar lento baja el estrés",
+  "pt": "Respirar devagar reduz o estresse"
+ },
+ "k0810": {
+  "es": "Metaanálisis de ensayos aleatorizados: el trabajo con la respiración bajó el estrés frente a controles (g = −0,35), con efectos parecidos en ansiedad y depresión.",
+  "pt": "Metanálise de ensaios randomizados: o trabalho com a respiração reduziu o estresse frente a controles (g = −0,35), com efeitos parecidos em ansiedade e depressão."
+ },
+ "k0811": {
+  "es": "Por eso, ante la falta de aire, el «Úsala» propone respirar lento.",
+  "pt": "Por isso, diante da falta de ar, o «Use-a» propõe respirar devagar."
+ },
+ "k0812": {
+  "es": "Efecto chico a mediano, con pocos estudios. No reemplaza la atención médica si la falta de aire persiste.",
+  "pt": "Efeito pequeno a médio, com poucos estudos. Não substitui a atenção médica se a falta de ar persistir."
+ },
+ "k0813": {
+  "es": "El hambre vuelve más impaciente",
+  "pt": "A fome deixa mais impaciente"
+ },
+ "k0814": {
+  "es": "Con hambre, las personas eligieron más premios chicos e inmediatos, sobre todo de comida, y en parte también de dinero.",
+  "pt": "Com fome, as pessoas escolheram mais prêmios pequenos e imediatos, sobretudo de comida, e em parte também de dinheiro."
+ },
+ "k0815": {
+  "es": "Por eso el «Cuidado» del hambre habla de elegir lo inmediato.",
+  "pt": "Por isso o «Cuidado» da fome fala de escolher o imediato."
+ },
+ "k0816": {
+  "es": "Un solo estudio, con 50 personas medidas dos veces. Falta replicarlo.",
+  "pt": "Um só estudo, com 50 pessoas medidas duas vezes. Falta replicá-lo."
+ },
+ "k0817": {
+  "es": "Comer atento",
+  "pt": "Comer atento"
+ },
+ "k0818": {
+  "es": "Metaanálisis de 24 experimentos: comer distraído aumentó lo que se come en el momento y aún más en la comida siguiente; recordar la comida anterior lo redujo.",
+  "pt": "Metanálise de 24 experimentos: comer distraído aumentou o que se come no momento e ainda mais na refeição seguinte; lembrar a refeição anterior reduziu."
+ },
+ "k0819": {
+  "es": "Por eso, con «Lleno», el «Úsala» propone parar y registrar cuánto alcanzó.",
+  "pt": "Por isso, com «Cheio», o «Use-a» propõe parar e registrar quanto bastou."
+ },
+ "k0820": {
+  "es": "Estudios de laboratorio de corta duración; el efecto a largo plazo es menos claro.",
+  "pt": "Estudos de laboratório de curta duração; o efeito a longo prazo é menos claro."
+ },
+ "k0821": {
+  "es": "La deshidratación baja la atención",
+  "pt": "A desidratação reduz a atenção"
+ },
+ "k0822": {
+  "es": "Metaanálisis de 33 estudios: las fallas más claras empiezan cerca del 2 % de pérdida de peso por líquido, sobre todo en atención y funciones complejas.",
+  "pt": "Metanálise de 33 estudos: as falhas mais claras começam perto de 2 % de perda de peso por líquido, sobretudo em atenção e funções complexas."
+ },
+ "k0823": {
+  "es": "Por eso el «Úsala» de la sed habla de la atención.",
+  "pt": "Por isso o «Use-a» da sede fala da atenção."
+ },
+ "k0824": {
+  "es": "La mayoría de los estudios usan ejercicio o calor para deshidratar; en la vida diaria el efecto puede ser menor.",
+  "pt": "A maioria dos estudos usa exercício ou calor para desidratar; no dia a dia o efeito pode ser menor."
+ },
+ "k0825": {
+  "es": "Dormir poco y las emociones",
+  "pt": "Dormir pouco e as emoções"
+ },
+ "k0826": {
+  "es": "Metaanálisis preregistrado de 154 estudios: dormir menos bajó el afecto positivo y subió la ansiedad; los resultados sobre el afecto negativo fueron mixtos.",
+  "pt": "Metanálise pré-registrada de 154 estudos: dormir menos reduziu o afeto positivo e aumentou a ansiedade; os resultados sobre o afeto negativo foram mistos."
+ },
+ "k0827": {
+  "es": "Por eso el «Cuidado» del sueño habla del ánimo bueno y la ansiedad.",
+  "pt": "Por isso o «Cuidado» do sono fala do ânimo bom e da ansiedade."
+ },
+ "k0828": {
+  "es": "Es la evidencia más fuerte de esta lista: experimentos, muchos estudios y preregistro.",
+  "pt": "É a evidência mais forte desta lista: experimentos, muitos estudos e pré-registro."
+ },
+ "k0829": {
+  "es": "Aversión al sabor",
+  "pt": "Aversão ao sabor"
+ },
+ "k0830": {
+  "es": "Basta una sola vez de comida seguida de malestar para evitar ese sabor, aunque el malestar llegue horas después.",
+  "pt": "Basta uma única vez de comida seguida de mal-estar para evitar esse sabor, mesmo que o mal-estar chegue horas depois."
+ },
+ "k0831": {
+  "es": "Por eso el «Cuidado» de la náusea avisa que puedes asociar algo inocente al malestar.",
+  "pt": "Por isso o «Cuidado» da náusea avisa que você pode associar algo inocente ao mal-estar."
+ },
+ "k0832": {
+  "es": "Muy replicado, sobre todo en animales; en personas también se observa.",
+  "pt": "Muito replicado, sobretudo em animais; em pessoas também se observa."
+ },
+ "k0833": {
+  "es": "Miedo al dolor y evitación",
+  "pt": "Medo da dor e evitação"
+ },
+ "k0834": {
+  "es": "Metaanálisis de 335 estudios: el catastrofismo y el miedo al dolor se asocian, de forma mediana a grande, con más limitación, ansiedad y depresión.",
+  "pt": "Metanálise de 335 estudos: o catastrofismo e o medo da dor se associam, de forma média a grande, a mais limitação, ansiedade e depressão."
+ },
+ "k0835": {
+  "es": "Por eso el «Cuidado» del dolor habla de evitar de más.",
+  "pt": "Por isso o «Cuidado» da dor fala de evitar demais."
+ },
+ "k0836": {
+  "es": "Son estudios transversales: muestran asociación, no prueban la causa.",
+  "pt": "São estudos transversais: mostram associação, não provam a causa."
+ },
+ "k0837": {
+  "es": "El asco y los juicios morales",
+  "pt": "O nojo e os julgamentos morais"
+ },
+ "k0838": {
+  "es": "Metaanálisis: el asco ajeno al tema endurece un poco los juicios morales (d = 0,11); al corregir el sesgo de publicación, el efecto desaparece.",
+  "pt": "Metanálise: o nojo alheio ao tema endurece um pouco os julgamentos morais (d = 0,11); ao corrigir o viés de publicação, o efeito desaparece."
+ },
+ "k0839": {
+  "es": "Por eso el «Cuidado» del asco dice que el efecto medido es chico.",
+  "pt": "Por isso o «Cuidado» do nojo diz que o efeito medido é pequeno."
+ },
+ "k0840": {
+  "es": "Evidencia en debate: algunas réplicas fallaron.",
+  "pt": "Evidência em debate: algumas réplicas falharam."
+ },
+ "k0841": {
+  "es": "El ciclo picazón-rascado",
+  "pt": "O ciclo coceira-coçar"
+ },
+ "k0842": {
+  "es": "Revisión de mecanismos: rascar alivia un momento, pero daña la piel y libera señales que vuelven a activar el picor.",
+  "pt": "Revisão de mecanismos: coçar alivia por um momento, mas danifica a pele e libera sinais que voltam a ativar a coceira."
+ },
+ "k0843": {
+  "es": "Por eso el «Cuidado» de la picazón dice que rascar empeora después.",
+  "pt": "Por isso o «Cuidado» da coceira diz que coçar piora depois."
+ },
+ "k0844": {
+  "es": "Revisión narrativa, basada en estudios clínicos y de laboratorio.",
+  "pt": "Revisão narrativa, baseada em estudos clínicos e de laboratório."
+ },
+ "k0845": {
+  "es": "El ruido y el rendimiento",
+  "pt": "O ruído e o desempenho"
+ },
+ "k0846": {
+  "es": "Metaanálisis: el ruido empeora el rendimiento en varias tareas, más en las que piden atención y memoria; el tamaño depende del tipo de ruido y de tarea.",
+  "pt": "Metanálise: o ruído piora o desempenho em várias tarefas, mais nas que pedem atenção e memória; o tamanho depende do tipo de ruído e de tarefa."
+ },
+ "k0847": {
+  "es": "Por eso, ante la sobreestimulación, el «Úsala» propone bajar estímulos.",
+  "pt": "Por isso, diante da superestimulação, o «Use-a» propõe reduzir estímulos."
+ },
+ "k0848": {
+  "es": "Mide ruido, no todos los estímulos; para pantallas y multitarea la evidencia es más indirecta.",
+  "pt": "Mede ruído, não todos os estímulos; para telas e multitarefa a evidência é mais indireta."
+ },
+ "k0849": {
+  "es": "Calor e irritación",
+  "pt": "Calor e irritação"
+ },
+ "k0850": {
+  "es": "En datos de campo, cada grado más se asoció con un poco más de violencia. En experimentos de laboratorio, el efecto del calor sobre la conducta fue poco confiable.",
+  "pt": "Em dados de campo, cada grau a mais se associou a um pouco mais de violência. Em experimentos de laboratório, o efeito do calor sobre a conduta foi pouco confiável."
+ },
+ "k0851": {
+  "es": "Por eso el «Cuidado» del calor dice que el efecto es débil.",
+  "pt": "Por isso o «Cuidado» do calor diz que o efeito é fraco."
+ },
+ "k0852": {
+  "es": "Los datos de campo son correlaciones: otros factores, como el dinero o estar más en la calle, pueden explicarlas.",
+  "pt": "Os dados de campo são correlações: outros fatores, como o dinheiro ou estar mais na rua, podem explicá-las."
+ },
+ "k0853": {
+  "es": "Miedo, enojo y riesgo",
+  "pt": "Medo, raiva e risco"
+ },
+ "k0854": {
+  "es": "El estudio original encontró que el miedo hace ver los riesgos más grandes y el enojo, más chicos. Una réplica grande y preregistrada confirmó parte de esto, pero no todo.",
+  "pt": "O estudo original encontrou que o medo faz os riscos parecerem maiores e a raiva, menores. Uma réplica grande e pré-registrada confirmou parte disso, mas não tudo."
+ },
+ "k0855": {
+  "es": "Por eso el «Cuidado» del miedo habla de ver los riesgos más grandes.",
+  "pt": "Por isso o «Cuidado» do medo fala de ver os riscos maiores."
+ },
+ "k0856": {
+  "es": "Evidencia mixta: la réplica apoyó el efecto sobre el optimismo ante el riesgo, pero no sobre la preferencia por arriesgar ni sobre los eventos negativos.",
+  "pt": "Evidência mista: a réplica apoiou o efeito sobre o otimismo diante do risco, mas não sobre a preferência por arriscar nem sobre os eventos negativos."
+ },
+ "k0857": {
+  "es": "Ansiedad: probabilidad y evitación",
+  "pt": "Ansiedade: probabilidade e evitação"
+ },
+ "k0858": {
+  "es": "Las personas con más ansiedad estiman más probables los hechos negativos. Evitar lo temido alivia al momento, pero mantiene la ansiedad.",
+  "pt": "As pessoas com mais ansiedade estimam como mais prováveis os fatos negativos. Evitar o temido alivia no momento, mas mantém a ansiedade."
+ },
+ "k0859": {
+  "es": "Por eso el «Úsala» pregunta cuán probable es, y el «Cuidado» habla de evitar.",
+  "pt": "Por isso o «Use-a» pergunta quão provável é, e o «Cuidado» fala de evitar."
+ },
+ "k0860": {
+  "es": "El sesgo de probabilidad es una correlación muy replicada; que evitar mantiene la ansiedad tiene apoyo clínico, sobre todo en la terapia de exposición.",
+  "pt": "O viés de probabilidade é uma correlação muito replicada; que evitar mantém a ansiedade tem apoio clínico, sobretudo na terapia de exposição."
+ },
+ "k0861": {
+  "es": "Querer no es lo mismo que gustar",
+  "pt": "Querer não é o mesmo que gostar"
+ },
+ "k0862": {
+  "es": "El cerebro tiene sistemas distintos para las ganas de algo y para el placer que da. Las ganas pueden crecer sin que crezca el placer.",
+  "pt": "O cérebro tem sistemas distintos para a vontade de algo e para o prazer que dá. A vontade pode crescer sem que cresça o prazer."
+ },
+ "k0863": {
+  "es": "Por eso el «Cuidado» del placer sensorial dice que puedes repetir sin disfrutar más.",
+  "pt": "Por isso o «Cuidado» do prazer sensorial diz que você pode repetir sem aproveitar mais."
+ },
+ "k0864": {
+  "es": "Basado sobre todo en estudios con animales y en adicciones; en la vida diaria es una hipótesis razonable.",
+  "pt": "Baseado sobretudo em estudos com animais e em adições; no dia a dia é uma hipótese razoável."
+ },
+ "k0865": {
+  "es": "Lo bello parece bueno",
+  "pt": "O belo parece bom"
+ },
+ "k0866": {
+  "es": "Metaanálisis: las personas atractivas son juzgadas y tratadas mejor, y la gente coincide bastante en quién es atractivo.",
+  "pt": "Metanálise: as pessoas atraentes são julgadas e tratadas melhor, e as pessoas concordam bastante sobre quem é atraente."
+ },
+ "k0867": {
+  "es": "Por eso el «Cuidado» del placer estético habla del efecto halo.",
+  "pt": "Por isso o «Cuidado» do prazer estético fala do efeito halo."
+ },
+ "k0868": {
+  "es": "Efecto robusto pero moderado; casi nulo para juzgar honestidad o bondad.",
+  "pt": "Efeito robusto mas moderado; quase nulo para julgar honestidade ou bondade."
+ },
+ "k0869": {
+  "es": "Masoquismo benigno",
+  "pt": "Masoquismo benigno"
+ },
+ "k0870": {
+  "es": "Disfrutamos experiencias que el cuerpo lee como peligro, como el picante o el miedo en una película, cuando sabemos que estamos a salvo. Muchos prefieren el nivel justo debajo de lo intolerable.",
+  "pt": "Aproveitamos experiências que o corpo lê como perigo, como a pimenta ou o medo num filme, quando sabemos que estamos a salvo. Muitos preferem o nível logo abaixo do intolerável."
+ },
+ "k0871": {
+  "es": "Por eso el picante es un dolor buscado, y el «Cuidado» habla de subir la dosis.",
+  "pt": "Por isso a pimenta é uma dor buscada, e o «Cuidado» fala de aumentar a dose."
+ },
+ "k0872": {
+  "es": "Estudio de encuestas; describe bien el fenómeno, pero no prueba sus causas.",
+  "pt": "Estudo de questionários; descreve bem o fenômeno, mas não prova suas causas."
+ },
+ "k0873": {
+  "es": "El ánimo tiñe lo que esperas",
+  "pt": "O ânimo tinge o que você espera"
+ },
+ "k0874": {
+  "es": "Con buen ánimo, la gente estimó como menos probables los riesgos; con mal ánimo, como más probables. Este efecto se replicó en muchas tareas.",
+  "pt": "Com bom ânimo, as pessoas estimaram os riscos como menos prováveis; com mau ânimo, como mais prováveis. Este efeito se replicou em muitas tarefas."
+ },
+ "k0875": {
+  "es": "Por eso el «Cuidado» de la diversión dice que puedes predecir de más.",
+  "pt": "Por isso o «Cuidado» da diversão diz que você pode prever demais."
+ },
+ "k0876": {
+  "es": "Efecto bien replicado en laboratorio; su tamaño en decisiones reales es menos claro.",
+  "pt": "Efeito bem replicado em laboratório; seu tamanho em decisões reais é menos claro."
+ },
+ "k0877": {
+  "es": "El ciclo del placer sexual",
+  "pt": "O ciclo do prazer sexual"
+ },
+ "k0878": {
+  "es": "Revisión de imágenes cerebrales: el placer sexual sigue el mismo ciclo que otras recompensas, con fases de querer, gustar y saciedad.",
+  "pt": "Revisão de imagens cerebrais: o prazer sexual segue o mesmo ciclo de outras recompensas, com fases de querer, gostar e saciedade."
+ },
+ "k0879": {
+  "es": "Por eso el «Cuidado» dice que su recompensa puede pesar más que otras metas.",
+  "pt": "Por isso o «Cuidado» diz que sua recompensa pode pesar mais que outras metas."
+ },
+ "k0880": {
+  "es": "Revisión narrativa, con estudios chicos de imágenes cerebrales.",
+  "pt": "Revisão narrativa, com estudos pequenos de imagens cerebrais."
+ },
+ "k0881": {
+  "es": "Flujo y rendimiento",
+  "pt": "Fluxo e desempenho"
+ },
+ "k0882": {
+  "es": "Metaanálisis de 22 estudios en deporte y videojuegos: el flujo se asocia con mejor rendimiento (r = 0,31). Perder la noción del tiempo es uno de sus rasgos.",
+  "pt": "Metanálise de 22 estudos em esporte e videogames: o fluxo se associa a melhor desempenho (r = 0,31). Perder a noção do tempo é um de seus traços."
+ },
+ "k0883": {
+  "es": "Por eso el «Úsala» propone proteger el momento, y el «Cuidado» habla del tiempo y de otras metas.",
+  "pt": "Por isso o «Use-a» propõe proteger o momento, e o «Cuidado» fala do tempo e de outras metas."
+ },
+ "k0884": {
+  "es": "Asociación, no causa: rendir bien también puede producir flujo.",
+  "pt": "Associação, não causa: render bem também pode produzir fluxo."
+ },
+ "k0885": {
+  "es": "Por qué nos aburrimos",
+  "pt": "Por que nos entediamos"
+ },
+ "k0886": {
+  "es": "El aburrimiento aparece cuando la atención no engancha (la tarea es muy fácil o muy difícil) o cuando la tarea no tiene sentido para ti. Empuja a buscar otra meta.",
+  "pt": "O tédio aparece quando a atenção não engata (a tarefa é muito fácil ou muito difícil) ou quando a tarefa não tem sentido para você. Empurra a buscar outra meta."
+ },
+ "k0887": {
+  "es": "Por eso el «Úsala» pregunta qué tarea rendiría más.",
+  "pt": "Por isso o «Use-a» pergunta que tarefa renderia mais."
+ },
+ "k0888": {
+  "es": "Modelo teórico con apoyo experimental inicial.",
+  "pt": "Modelo teórico com apoio experimental inicial."
+ },
+ "k0889": {
+  "es": "La curiosidad ayuda a recordar",
+  "pt": "A curiosidade ajuda a lembrar"
+ },
+ "k0890": {
+  "es": "Con alta curiosidad, las personas recordaron mejor las respuestas, y también otras cosas que vieron mientras esperaban.",
+  "pt": "Com alta curiosidade, as pessoas lembraram melhor as respostas, e também outras coisas que viram enquanto esperavam."
+ },
+ "k0891": {
+  "es": "Por eso el «Úsala» propone explorar con tu pregunta.",
+  "pt": "Por isso o «Use-a» propõe explorar com sua pergunta."
+ },
+ "k0892": {
+  "es": "Un estudio de laboratorio con preguntas de trivia; hay réplicas parciales.",
+  "pt": "Um estudo de laboratório com perguntas de trivia; há réplicas parciais."
+ },
+ "k0893": {
+  "es": "Sorpresa y error de predicción",
+  "pt": "Surpresa e erro de previsão"
+ },
+ "k0894": {
+  "es": "Cuando algo no sale como esperabas, el cerebro emite una señal de error que dirige la atención y ajusta lo que esperas la próxima vez.",
+  "pt": "Quando algo não sai como você esperava, o cérebro emite um sinal de erro que dirige a atenção e ajusta o que você espera da próxima vez."
+ },
+ "k0895": {
+  "es": "Por eso el «Úsala» de la sorpresa propone actualizar tu predicción: es lo que hace la app ESTIMAT.",
+  "pt": "Por isso o «Use-a» da surpresa propõe atualizar sua previsão: é o que faz o app ESTIMAT."
+ },
+ "k0896": {
+  "es": "Muy replicado en animales y personas; la relación con la emoción consciente de sorpresa es una inferencia.",
+  "pt": "Muito replicado em animais e pessoas; a relação com a emoção consciente de surpresa é uma inferência."
+ },
+ "k0897": {
+  "es": "Asombro e intenciones invisibles",
+  "pt": "Assombro e intenções invisíveis"
+ },
+ "k0898": {
+  "es": "En cinco estudios, el asombro bajó la tolerancia a la incertidumbre y aumentó la tendencia a ver intención en hechos al azar y a creer en lo sobrenatural.",
+  "pt": "Em cinco estudos, o assombro reduziu a tolerância à incerteza e aumentou a tendência a ver intenção em fatos ao acaso e a crer no sobrenatural."
+ },
+ "k0899": {
+  "es": "Por eso el «Cuidado» del asombro habla de ver planes donde no los hay.",
+  "pt": "Por isso o «Cuidado» do assombro fala de ver planos onde não há."
+ },
+ "k0900": {
+  "es": "Un solo grupo de investigación; faltan réplicas independientes.",
+  "pt": "Um só grupo de pesquisa; faltam réplicas independentes."
+ },
+ "k0901": {
+  "es": "La sensación de saber",
+  "pt": "A sensação de saber"
+ },
+ "k0902": {
+  "es": "La sensación de saber predice, mejor que el azar, si luego reconocerás la respuesta. Pero se basa en lo familiar de la pregunta y en pistas parciales, que a veces son falsas.",
+  "pt": "A sensação de saber prevê, melhor que o acaso, se depois você reconhecerá a resposta. Mas se baseia no familiar da pergunta e em pistas parciais, que às vezes são falsas."
+ },
+ "k0903": {
+  "es": "Por eso el «Cuidado» dice que puede darte certeza falsa.",
+  "pt": "Por isso o «Cuidado» diz que pode dar certeza falsa."
+ },
+ "k0904": {
+  "es": "Muy replicado en laboratorio de memoria.",
+  "pt": "Muito replicado em laboratório de memória."
+ },
+ "k0905": {
+  "es": "Sentido: encajar, rumbo e importancia",
+  "pt": "Sentido: encaixar, rumo e importância"
+ },
+ "k0906": {
+  "es": "El sentido de la vida tiene tres partes: coherencia (entender cómo encaja todo), propósito (tener rumbo) e importancia (sentir que tu vida vale). Ver orden en las cosas subió el sentido reportado.",
+  "pt": "O sentido da vida tem três partes: coerência (entender como tudo se encaixa), propósito (ter rumo) e importância (sentir que sua vida vale). Ver ordem nas coisas aumentou o sentido relatado."
+ },
+ "k0907": {
+  "es": "Por eso «Sentido» tiene los parientes Coherencia, Propósito e Importancia.",
+  "pt": "Por isso «Sentido» tem os parentes Coerência, Propósito e Importância."
+ },
+ "k0908": {
+  "es": "Modelo teórico bien aceptado; el experimento del orden es pequeño.",
+  "pt": "Modelo teórico bem aceito; o experimento da ordem é pequeno."
+ },
+ "k0909": {
+  "es": "La confusión que enseña",
+  "pt": "A confusão que ensina"
+ },
+ "k0910": {
+  "es": "La confusión puede mejorar el aprendizaje si tiene que ver con el tema, la persona intenta resolverla y recibe ayuda. Si dura demasiado, pasa a frustración o abandono.",
+  "pt": "A confusão pode melhorar a aprendizagem se tem a ver com o tema, a pessoa tenta resolvê-la e recebe ajuda. Se dura demais, vira frustração ou abandono."
+ },
+ "k0911": {
+  "es": "Por eso el «Úsala» pregunta qué pieza falta, y el «Cuidado» habla de abandonar.",
+  "pt": "Por isso o «Use-a» pergunta que peça falta, e o «Cuidado» fala de abandonar."
+ },
+ "k0912": {
+  "es": "Dos experimentos con tutores digitales; apoyo moderado.",
+  "pt": "Dois experimentos com tutores digitais; apoio moderado."
+ },
+ "k0913": {
+  "es": "El exceso de confianza",
+  "pt": "O excesso de confiança"
+ },
+ "k0914": {
+  "es": "Hay tres formas de exceso de confianza: creer que lo hiciste mejor, creer que eres mejor que otros y estar demasiado seguro de tus estimaciones. La tercera es la más persistente.",
+  "pt": "Há três formas de excesso de confiança: acreditar que fez melhor, acreditar que é melhor que outros e estar seguro demais de suas estimativas. A terceira é a mais persistente."
+ },
+ "k0915": {
+  "es": "Por eso el «Cuidado» dice que solemos sentirnos más seguros de lo que justifican nuestros aciertos. La «confianza» que registras en la app ESTIMAT lo pone a prueba.",
+  "pt": "Por isso o «Cuidado» diz que costumamos nos sentir mais seguros do que justificam nossos acertos. A «confiança» que você registra no app ESTIMAT põe isso à prova."
+ },
+ "k0916": {
+  "es": "Uno de los hallazgos más robustos en el estudio de las decisiones.",
+  "pt": "Um dos achados mais robustos no estudo das decisões."
+ },
+ "k0917": {
+  "es": "La ilusión de entender",
+  "pt": "A ilusão de entender"
+ },
+ "k0918": {
+  "es": "La gente cree entender cómo funcionan las cosas, como un cierre o una bicicleta. Cuando intenta explicarlo paso a paso, baja su propia nota de comprensión.",
+  "pt": "As pessoas acham que entendem como as coisas funcionam, como um zíper ou uma bicicleta. Quando tentam explicar passo a passo, baixam a própria nota de compreensão."
+ },
+ "k0919": {
+  "es": "Por eso el «Cuidado» propone explicarlo paso a paso.",
+  "pt": "Por isso o «Cuidado» propõe explicar passo a passo."
+ },
+ "k0920": {
+  "es": "Muy replicado; el efecto es mayor en conocimientos sobre mecanismos que en hechos o procedimientos.",
+  "pt": "Muito replicado; o efeito é maior em conhecimentos sobre mecanismos que em fatos ou procedimentos."
+ },
+ "k0921": {
+  "es": "Qué es la inspiración",
+  "pt": "O que é a inspiração"
+ },
+ "k0922": {
+  "es": "La inspiración tiene tres rasgos: llega sin buscarla, muestra una posibilidad mejor y da ganas de llevarla a cabo.",
+  "pt": "A inspiração tem três traços: chega sem ser buscada, mostra uma possibilidade melhor e dá vontade de realizá-la."
+ },
+ "k0923": {
+  "es": "Por eso el «Úsala» propone anotar la idea y dar un paso pequeño.",
+  "pt": "Por isso o «Use-a» propõe anotar a ideia e dar um passo pequeno."
+ },
+ "k0924": {
+  "es": "Define bien la emoción; el «Cuidado» sobre inflar el entusiasmo es una inferencia nuestra.",
+  "pt": "Define bem a emoção; o «Cuidado» sobre inflar o entusiasmo é uma inferência nossa."
+ },
+ "k0925": {
+  "es": "Insistir en lo que no funciona",
+  "pt": "Insistir no que não funciona"
+ },
+ "k0926": {
+  "es": "Metaanálisis de más de 160 estudios: lo que ya invertiste (tiempo, dinero) empuja a seguir con un rumbo que falla.",
+  "pt": "Metanálise de mais de 160 estudos: o que você já investiu (tempo, dinheiro) empurra a continuar num rumo que falha."
+ },
+ "k0927": {
+  "es": "Por eso el «Cuidado» de la frustración habla de insistir en lo que no funciona.",
+  "pt": "Por isso o «Cuidado» da frustração fala de insistir no que não funciona."
+ },
+ "k0928": {
+  "es": "Evidencia sólida sobre insistir; la relación directa con la frustración es una inferencia.",
+  "pt": "Evidência sólida sobre insistir; a relação direta com a frustração é uma inferência."
+ },
+ "k0929": {
+  "es": "Lo inconcluso tira de ti",
+  "pt": "O inconcluso puxa você"
+ },
+ "k0930": {
+  "es": "Metaanálisis: las tareas interrumpidas no se recuerdan mejor (el famoso efecto Zeigarnik no se sostiene), pero sí hay una tendencia general a retomarlas.",
+  "pt": "Metanálise: as tarefas interrompidas não são lembradas melhor (o famoso efeito Zeigarnik não se sustenta), mas há uma tendência geral a retomá-las."
+ },
+ "k0931": {
+  "es": "Por eso el «Cuidado» del cierre dice que lo que dejas a medias sigue tirando de ti.",
+  "pt": "Por isso o «Cuidado» do fechamento diz que o que você deixa pela metade continua puxando você."
+ },
+ "k0932": {
+  "es": "Metaanálisis reciente; corrige una idea muy difundida.",
+  "pt": "Metanálise recente; corrige uma ideia muito difundida."
+ },
+ "k0933": {
+  "es": "Idealizar a la pareja",
+  "pt": "Idealizar o parceiro"
+ },
+ "k0934": {
+  "es": "Las personas veían a su pareja mejor de lo que la pareja se veía a sí misma, y esa idealización predijo más satisfacción.",
+  "pt": "As pessoas viam o parceiro melhor do que ele se via, e essa idealização previu mais satisfação."
+ },
+ "k0935": {
+  "es": "Por eso el «Cuidado» dice que idealizar ayuda, pero puede ocultar señales de alerta.",
+  "pt": "Por isso o «Cuidado» diz que idealizar ajuda, mas pode ocultar sinais de alerta."
+ },
+ "k0936": {
+  "es": "Estudios correlacionales y longitudinales; que oculte señales de alerta es una inferencia nuestra.",
+  "pt": "Estudos correlacionais e longitudinais; que oculte sinais de alerta é uma inferência nossa."
+ },
+ "k0937": {
+  "es": "Duelo y resiliencia",
+  "pt": "Luto e resiliência"
+ },
+ "k0938": {
+  "es": "Después de una pérdida, la resiliencia es más común de lo que se creía: muchas personas siguen funcionando bien y sienten emociones positivas pronto.",
+  "pt": "Depois de uma perda, a resiliência é mais comum do que se pensava: muitas pessoas seguem funcionando bem e sentem emoções positivas cedo."
+ },
+ "k0939": {
+  "es": "Por eso el «Cuidado» del duelo dice que la mayoría se recupera, y que pidas ayuda si no pasa.",
+  "pt": "Por isso o «Cuidado» do luto diz que a maioria se recupera, e que você peça ajuda se não passa."
+ },
+ "k0940": {
+  "es": "Estudios longitudinales; algunos encuentran que en la viudez la resiliencia es menos común.",
+  "pt": "Estudos longitudinais; alguns encontram que na viuvez a resiliência é menos comum."
+ },
+ "k0941": {
+  "es": "Para qué sirve la nostalgia",
+  "pt": "Para que serve a nostalgia"
+ },
+ "k0942": {
+  "es": "La nostalgia aparece con el ánimo bajo o la soledad, y en experimentos sube el ánimo, la autoestima y la sensación de conexión con otros.",
+  "pt": "A nostalgia aparece com o ânimo baixo ou a solidão, e em experimentos eleva o ânimo, a autoestima e a sensação de conexão com outros."
+ },
+ "k0943": {
+  "es": "Por eso el «Cuidado» de extrañar dice que puede idealizar el pasado, pero también subir el ánimo.",
+  "pt": "Por isso o «Cuidado» de sentir falta diz que pode idealizar o passado, mas também elevar o ânimo."
+ },
+ "k0944": {
+  "es": "Muchos experimentos, casi todos del mismo grupo de investigación.",
+  "pt": "Muitos experimentos, quase todos do mesmo grupo de pesquisa."
+ },
+ "k0945": {
+  "es": "Decidir en caliente",
+  "pt": "Decidir no calor do momento"
+ },
+ "k0946": {
+  "es": "Estudiantes varones excitados respondieron que aceptarían más conductas de riesgo que en estado neutro, y no lo anticipaban cuando estaban en frío.",
+  "pt": "Estudantes homens excitados responderam que aceitariam mais condutas de risco que em estado neutro, e não previam isso quando estavam a frio."
+ },
+ "k0947": {
+  "es": "Por eso el «Cuidado» dice que en ese estado aceptas más riesgos.",
+  "pt": "Por isso o «Cuidado» diz que nesse estado você aceita mais riscos."
+ },
+ "k0948": {
+  "es": "Muestra chica y solo de hombres; una réplica con hombres y mujeres encontró un efecto menor.",
+  "pt": "Amostra pequena e só de homens; uma réplica com homens e mulheres encontrou um efeito menor."
+ },
+ "k0949": {
+  "es": "Empatía y compasión",
+  "pt": "Empatia e compaixão"
+ },
+ "k0950": {
+  "es": "Entrenar la empatía ante el sufrimiento ajeno subió el malestar propio; entrenar después la compasión lo revirtió y subió el afecto positivo.",
+  "pt": "Treinar a empatia diante do sofrimento alheio aumentou o mal-estar próprio; treinar depois a compaixão reverteu isso e aumentou o afeto positivo."
+ },
+ "k0951": {
+  "es": "Por eso el «Cuidado» separa sentir el dolor del otro de querer ayudarlo.",
+  "pt": "Por isso o «Cuidado» separa sentir a dor do outro de querer ajudá-lo."
+ },
+ "k0952": {
+  "es": "Estudios de entrenamiento con imágenes cerebrales; muestras chicas.",
+  "pt": "Estudos de treinamento com imagens cerebrais; amostras pequenas."
+ },
+ "k0953": {
+  "es": "Gratitud y bienestar",
+  "pt": "Gratidão e bem-estar"
+ },
+ "k0954": {
+  "es": "La gratitud incluye agradecer a alguien y también apreciar lo que tienes o recibes. Se asocia con más bienestar.",
+  "pt": "A gratidão inclui agradecer a alguém e também apreciar o que você tem ou recebe. Associa-se a mais bem-estar."
+ },
+ "k0955": {
+  "es": "Por eso la definición habla de un favor, un saber o un momento.",
+  "pt": "Por isso a definição fala de um favor, um saber ou um momento."
+ },
+ "k0956": {
+  "es": "Revisión con mucha evidencia correlacional; los ejercicios de gratitud tienen efectos chicos.",
+  "pt": "Revisão com muita evidência correlacional; os exercícios de gratidão têm efeitos pequenos."
+ },
+ "k0957": {
+  "es": "Gastar en otros y felicidad",
+  "pt": "Gastar com outros e felicidade"
+ },
+ "k0958": {
+  "es": "Una réplica grande y preregistrada encontró que gastar en otros da más felicidad del momento que gastar en uno mismo.",
+  "pt": "Uma réplica grande e pré-registrada encontrou que gastar com outros dá mais felicidade no momento do que gastar consigo."
+ },
+ "k0959": {
+  "es": "Por eso el «Úsala» propone ayudar donde mejor ayudas.",
+  "pt": "Por isso o «Use-a» propõe ajudar onde você ajuda melhor."
+ },
+ "k0960": {
+  "es": "Resultados mixtos: algunas réplicas no encontraron diferencia.",
+  "pt": "Resultados mistos: algumas réplicas não encontraram diferença."
+ },
+ "k0961": {
+  "es": "Envidia benigna y maliciosa",
+  "pt": "Inveja benigna e maliciosa"
+ },
+ "k0962": {
+  "es": "Hay dos envidias: la benigna empuja a mejorar tu posición; la maliciosa, a bajar al otro.",
+  "pt": "Há duas invejas: a benigna empurra a melhorar sua posição; a maliciosa, a rebaixar o outro."
+ },
+ "k0963": {
+  "es": "Por eso el «Úsala» propone usarla como guía, y el «Cuidado» habla de la maliciosa.",
+  "pt": "Por isso o «Use-a» propõe usá-la como guia, e o «Cuidado» fala da maliciosa."
+ },
+ "k0964": {
+  "es": "Replicado en varios países; la mayoría son estudios de recuerdo y autoinforme.",
+  "pt": "Replicado em vários países; a maioria são estudos de lembrança e autorrelato."
+ },
+ "k0965": {
+  "es": "Seguir al grupo",
+  "pt": "Seguir o grupo"
+ },
+ "k0966": {
+  "es": "Metaanálisis de 133 estudios en 17 países con la tarea de Asch: mucha gente da una respuesta errada para coincidir con el grupo, más en culturas colectivistas.",
+  "pt": "Metanálise de 133 estudos em 17 países com a tarefa de Asch: muita gente dá uma resposta errada para coincidir com o grupo, mais em culturas coletivistas."
+ },
+ "k0967": {
+  "es": "Por eso el «Cuidado» de la pertenencia dice que empuja a seguir al grupo aunque esté errado.",
+  "pt": "Por isso o «Cuidado» do pertencimento diz que empurra a seguir o grupo mesmo errado."
+ },
+ "k0968": {
+  "es": "Muy replicado; en EE. UU. la conformidad bajó desde los años 50.",
+  "pt": "Muito replicado; nos EUA a conformidade caiu desde os anos 50."
+ },
+ "k0969": {
+  "es": "Qué ayuda con la soledad",
+  "pt": "O que ajuda com a solidão"
+ },
+ "k0970": {
+  "es": "Metaanálisis: lo que más redujo la soledad fue cambiar cómo la persona piensa sobre sí y sobre los demás, más que solo darle más contacto.",
+  "pt": "Metanálise: o que mais reduziu a solidão foi mudar como a pessoa pensa sobre si e sobre os outros, mais do que só dar mais contato."
+ },
+ "k0971": {
+  "es": "Por eso el «Cuidado» dice que los otros parecen más lejanos de lo que están.",
+  "pt": "Por isso o «Cuidado» diz que os outros parecem mais distantes do que estão."
+ },
+ "k0972": {
+  "es": "Efecto chico en los ensayos mejor diseñados.",
+  "pt": "Efeito pequeno nos ensaios mais bem desenhados."
+ },
+ "k0973": {
+  "es": "Compararse hacia arriba",
+  "pt": "Comparar-se para cima"
+ },
+ "k0974": {
+  "es": "Metaanálisis de 60 años: compararse con alguien mejor suele hacerte sentir peor, sobre todo sobre tu capacidad.",
+  "pt": "Metanálise de 60 anos: comparar-se com alguém melhor costuma fazer você se sentir pior, sobretudo sobre sua capacidade."
+ },
+ "k0975": {
+  "es": "Por eso el «Cuidado» de la admiración dice que puede hacerte sentir menos.",
+  "pt": "Por isso o «Cuidado» da admiração diz que pode fazer você se sentir menos."
+ },
+ "k0976": {
+  "es": "Robusto; puede invertirse si te identificas con la persona.",
+  "pt": "Robusto; pode se inverter se você se identifica com a pessoa."
+ },
+ "k0977": {
+  "es": "El efecto foco",
+  "pt": "O efeito holofote"
+ },
+ "k0978": {
+  "es": "Quienes usaron una remera vergonzosa sobreestimaron cuántas personas la notaron.",
+  "pt": "Quem usou uma camiseta constrangedora superestimou quantas pessoas a notaram."
+ },
+ "k0979": {
+  "es": "Por eso el «Úsala» del bochorno pregunta si fue tan grave.",
+  "pt": "Por isso o «Use-a» do constrangimento pergunta se foi tão grave."
+ },
+ "k0980": {
+  "es": "Replicado varias veces, en apariencia y en conducta.",
+  "pt": "Replicado várias vezes, em aparência e em conduta."
+ },
+ "k0981": {
+  "es": "Vergüenza, culpa y reparación",
+  "pt": "Vergonha, culpa e reparação"
+ },
+ "k0982": {
+  "es": "Metaanálisis de 90 muestras: la vergüenza empuja a mejorar y a ayudar cuando el error se puede reparar, y a evitar cuando parece sin arreglo.",
+  "pt": "Metanálise de 90 amostras: a vergonha empurra a melhorar e a ajudar quando o erro pode ser reparado, e a evitar quando parece sem conserto."
+ },
+ "k0983": {
+  "es": "Por eso el «Úsala» de la vergüenza y de la culpa apunta a reparar.",
+  "pt": "Por isso o «Use-a» da vergonha e da culpa aponta para reparar."
+ },
+ "k0984": {
+  "es": "Evidencia sólida; separa bien cuándo la vergüenza ayuda y cuándo no.",
+  "pt": "Evidência sólida; separa bem quando a vergonha ajuda e quando não."
+ },
+ "k0985": {
+  "es": "Kurzban, Duckworth, Kable y Myers (2013), BBS. Boksem y Tops (2008).",
+  "pt": "Kurzban, Duckworth, Kable e Myers (2013), BBS. Boksem e Tops (2008)."
+ },
+ "k0986": {
+  "es": "Fincham, Strauss, Montero-Marin y Cavanagh (2023), Scientific Reports.",
+  "pt": "Fincham, Strauss, Montero-Marin e Cavanagh (2023), Scientific Reports."
+ },
+ "k0987": {
+  "es": "Skrynka y Vincent (2019), Psychonomic Bulletin & Review.",
+  "pt": "Skrynka e Vincent (2019), Psychonomic Bulletin & Review."
+ },
+ "k0988": {
+  "es": "Robinson y colegas (2013), American Journal of Clinical Nutrition.",
+  "pt": "Robinson e colegas (2013), American Journal of Clinical Nutrition."
+ },
+ "k0989": {
+  "es": "Wittbrodt y Millard-Stafford (2018), Medicine & Science in Sports & Exercise.",
+  "pt": "Wittbrodt e Millard-Stafford (2018), Medicine & Science in Sports & Exercise."
+ },
+ "k0990": {
+  "es": "Palmer y colegas (2024), Psychological Bulletin.",
+  "pt": "Palmer e colegas (2024), Psychological Bulletin."
+ },
+ "k0991": {
+  "es": "Garcia, Ervin y Koelling (1966); revisión de Lin, Arthurs y Reilly (2016).",
+  "pt": "Garcia, Ervin e Koelling (1966); revisão de Lin, Arthurs e Reilly (2016)."
+ },
+ "k0992": {
+  "es": "Rogers y Farris (2022), European Journal of Pain.",
+  "pt": "Rogers e Farris (2022), European Journal of Pain."
+ },
+ "k0993": {
+  "es": "Landy y Goodwin (2015), Perspectives on Psychological Science.",
+  "pt": "Landy e Goodwin (2015), Perspectives on Psychological Science."
+ },
+ "k0994": {
+  "es": "Szalma y Hancock (2011), Psychological Bulletin.",
+  "pt": "Szalma e Hancock (2011), Psychological Bulletin."
+ },
+ "k0995": {
+  "es": "Lynott y colegas (2023), British Journal of Social Psychology; Chauhan y Thakur (2025), Western Journal of Emergency Medicine.",
+  "pt": "Lynott e colegas (2023), British Journal of Social Psychology; Chauhan e Thakur (2025), Western Journal of Emergency Medicine."
+ },
+ "k0996": {
+  "es": "Lerner y Keltner (2001), JPSP; réplica registrada de Lu, Efendić y Feldman (2025), JPSP.",
+  "pt": "Lerner e Keltner (2001), JPSP; réplica registrada de Lu, Efendić e Feldman (2025), JPSP."
+ },
+ "k0997": {
+  "es": "Butler y Mathews (1987); Booth y Sharma (2021); Hofmann y Hay (2018), Journal of Anxiety Disorders.",
+  "pt": "Butler e Mathews (1987); Booth e Sharma (2021); Hofmann e Hay (2018), Journal of Anxiety Disorders."
+ },
+ "k0998": {
+  "es": "Berridge y Robinson (2016), American Psychologist.",
+  "pt": "Berridge e Robinson (2016), American Psychologist."
+ },
+ "k0999": {
+  "es": "Langlois y colegas (2000), Psychological Bulletin.",
+  "pt": "Langlois e colegas (2000), Psychological Bulletin."
+ },
+ "k1000": {
+  "es": "Rozin y colegas (2013), Judgment and Decision Making.",
+  "pt": "Rozin e colegas (2013), Judgment and Decision Making."
+ },
+ "k1001": {
+  "es": "Johnson y Tversky (1983), JPSP.",
+  "pt": "Johnson e Tversky (1983), JPSP."
+ },
+ "k1002": {
+  "es": "Georgiadis y Kringelbach (2012), Progress in Neurobiology.",
+  "pt": "Georgiadis e Kringelbach (2012), Progress in Neurobiology."
+ },
+ "k1003": {
+  "es": "Harris, Allen, Vine y Wilson (2021), International Review of Sport and Exercise Psychology.",
+  "pt": "Harris, Allen, Vine e Wilson (2021), International Review of Sport and Exercise Psychology."
+ },
+ "k1004": {
+  "es": "Westgate y Wilson (2018), Psychological Review; Bench y Lench (2013), Behavioral Sciences.",
+  "pt": "Westgate e Wilson (2018), Psychological Review; Bench e Lench (2013), Behavioral Sciences."
+ },
+ "k1005": {
+  "es": "Gruber, Gelman y Ranganath (2014), Neuron.",
+  "pt": "Gruber, Gelman e Ranganath (2014), Neuron."
+ },
+ "k1006": {
+  "es": "Schultz, Dayan y Montague (1997), Science; revisión de Nasser y colegas (2017).",
+  "pt": "Schultz, Dayan e Montague (1997), Science; revisão de Nasser e colegas (2017)."
+ },
+ "k1007": {
+  "es": "Valdesolo y Graham (2014), Psychological Science.",
+  "pt": "Valdesolo e Graham (2014), Psychological Science."
+ },
+ "k1008": {
+  "es": "Koriat (1993), Psychological Review; Metcalfe, Schwartz y Joaquim (1993).",
+  "pt": "Koriat (1993), Psychological Review; Metcalfe, Schwartz e Joaquim (1993)."
+ },
+ "k1009": {
+  "es": "Martela y Steger (2016), Journal of Positive Psychology; Heintzelman y King (2014).",
+  "pt": "Martela e Steger (2016), Journal of Positive Psychology; Heintzelman e King (2014)."
+ },
+ "k1010": {
+  "es": "D’Mello, Lehman, Pekrun y Graesser (2014), Learning and Instruction.",
+  "pt": "D’Mello, Lehman, Pekrun e Graesser (2014), Learning and Instruction."
+ },
+ "k1011": {
+  "es": "Moore y Healy (2008), Psychological Review.",
+  "pt": "Moore e Healy (2008), Psychological Review."
+ },
+ "k1012": {
+  "es": "Rozenblit y Keil (2002), Cognitive Science.",
+  "pt": "Rozenblit e Keil (2002), Cognitive Science."
+ },
+ "k1013": {
+  "es": "Thrash y Elliot (2003), JPSP.",
+  "pt": "Thrash e Elliot (2003), JPSP."
+ },
+ "k1014": {
+  "es": "Sleesman, Conlon, McNamara y Miles (2012), Academy of Management Journal.",
+  "pt": "Sleesman, Conlon, McNamara e Miles (2012), Academy of Management Journal."
+ },
+ "k1015": {
+  "es": "Ghibellini y Meier (2025), Humanities & Social Sciences Communications.",
+  "pt": "Ghibellini e Meier (2025), Humanities & Social Sciences Communications."
+ },
+ "k1016": {
+  "es": "Murray, Holmes y Griffin (1996), JPSP.",
+  "pt": "Murray, Holmes e Griffin (1996), JPSP."
+ },
+ "k1017": {
+  "es": "Sedikides, Wildschut, Arndt y Routledge (2008), Current Directions in Psychological Science.",
+  "pt": "Sedikides, Wildschut, Arndt e Routledge (2008), Current Directions in Psychological Science."
+ },
+ "k1018": {
+  "es": "Ariely y Loewenstein (2006), Journal of Behavioral Decision Making.",
+  "pt": "Ariely e Loewenstein (2006), Journal of Behavioral Decision Making."
+ },
+ "k1019": {
+  "es": "Klimecki, Leiberg, Ricard y Singer (2014), SCAN.",
+  "pt": "Klimecki, Leiberg, Ricard e Singer (2014), SCAN."
+ },
+ "k1020": {
+  "es": "Wood, Froh y Geraghty (2010), Clinical Psychology Review.",
+  "pt": "Wood, Froh e Geraghty (2010), Clinical Psychology Review."
+ },
+ "k1021": {
+  "es": "Aknin, Dunn, Proulx, Lok y Norton (2020), JPSP.",
+  "pt": "Aknin, Dunn, Proulx, Lok e Norton (2020), JPSP."
+ },
+ "k1022": {
+  "es": "van de Ven, Zeelenberg y Pieters (2009), Emotion.",
+  "pt": "van de Ven, Zeelenberg e Pieters (2009), Emotion."
+ },
+ "k1023": {
+  "es": "Bond y Smith (1996), Psychological Bulletin.",
+  "pt": "Bond e Smith (1996), Psychological Bulletin."
+ },
+ "k1024": {
+  "es": "Masi, Chen, Hawkley y Cacioppo (2011), Personality and Social Psychology Review.",
+  "pt": "Masi, Chen, Hawkley e Cacioppo (2011), Personality and Social Psychology Review."
+ },
+ "k1025": {
+  "es": "Gerber, Wheeler y Suls (2018), Psychological Bulletin.",
+  "pt": "Gerber, Wheeler e Suls (2018), Psychological Bulletin."
+ },
+ "k1026": {
+  "es": "Gilovich, Medvec y Savitsky (2000), JPSP.",
+  "pt": "Gilovich, Medvec e Savitsky (2000), JPSP."
+ },
+ "k1027": {
+  "es": "Leach y Cidam (2015), JPSP.",
+  "pt": "Leach e Cidam (2015), JPSP."
  }
 }
