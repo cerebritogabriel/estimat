@@ -4142,5 +4142,285 @@
  "k1037": {
   "es": "Muestra chica (108 personas) y sin personas en crisis; no está probado para el riesgo suicida.",
   "pt": "Amostra pequena (108 pessoas) e sem pessoas em crise; não foi testado para o risco suicida."
+ },
+ "k1038": {
+  "es": "Pánico y respiración",
+  "pt": "Pânico e respiração"
+ },
+ "k1039": {
+  "es": "APA (2013), DSM-5; Meuret, Wilhelm, Ritz y Roth (2008), Journal of Psychiatric Research.",
+  "pt": "APA (2013), DSM-5; Meuret, Wilhelm, Ritz e Roth (2008), Journal of Psychiatric Research."
+ },
+ "k1040": {
+  "es": "El DSM-5 define el ataque de pánico como una oleada que llega a su pico en minutos. Entrenar a respirar más lento y suave redujo los síntomas de pánico.",
+  "pt": "O DSM-5 define o ataque de pânico como uma onda que chega ao pico em minutos. Treinar respirar mais devagar e suave reduziu os sintomas de pânico."
+ },
+ "k1041": {
+  "es": "Por eso el pánico dice que llega a su pico en minutos y que respires lento y suave.",
+  "pt": "Por isso o pânico diz que chega ao pico em minutos e que você respire devagar e suave."
+ },
+ "k1042": {
+  "es": "Ensayos chicos, con medición de CO₂; en metaanálisis, la respiración ayuda más combinada con exposición.",
+  "pt": "Ensaios pequenos, com medição de CO₂; em metanálises, a respiração ajuda mais combinada com exposição."
+ },
+ "k1043": {
+  "es": "Edulcorantes intensos",
+  "pt": "Adoçantes intensos"
+ },
+ "k1044": {
+  "es": "FDA, Aspartame and Other Sweeteners in Food; MedlinePlus, Sugar substitutes.",
+  "pt": "FDA, Aspartame and Other Sweeteners in Food; MedlinePlus, Sugar substitutes."
+ },
+ "k1045": {
+  "es": "El aspartamo es unas 200 veces más dulce que el azúcar, la sucralosa unas 600 y el advantamo unas 20.000.",
+  "pt": "O aspartame é umas 200 vezes mais doce que o açúcar, a sucralose umas 600 e o advantame umas 20.000."
+ },
+ "k1046": {
+  "es": "Por eso el dulce artificial habla de cientos o miles de veces.",
+  "pt": "Por isso o doce artificial fala de centenas ou milhares de vezes."
+ },
+ "k1047": {
+  "es": "Datos de agencias de salud; la potencia varía según el producto.",
+  "pt": "Dados de agências de saúde; a potência varia conforme o produto."
+ },
+ "k1048": {
+  "es": "Elevación",
+  "pt": "Elevação"
+ },
+ "k1049": {
+  "es": "Algoe y Haidt (2009), Journal of Positive Psychology.",
+  "pt": "Algoe e Haidt (2009), Journal of Positive Psychology."
+ },
+ "k1050": {
+  "es": "La elevación, la respuesta a la bondad de otros, empuja a ayudar y a acercarse; es distinta de la alegría.",
+  "pt": "A elevação, a resposta à bondade dos outros, empurra a ajudar e a se aproximar; é diferente da alegria."
+ },
+ "k1051": {
+  "es": "Por eso la elevación dice que empuja a ayudar.",
+  "pt": "Por isso a elevação diz que empurra a ajudar."
+ },
+ "k1052": {
+  "es": "Estudios de recuerdo, video y diario; muestras chicas.",
+  "pt": "Estudos de lembrança, vídeo e diário; amostras pequenas."
+ },
+ "k1053": {
+  "es": "Ternura agresiva",
+  "pt": "Fofura agressiva"
+ },
+ "k1054": {
+  "es": "Aragón, Clark, Dyer y Bargh (2015), Psychological Science.",
+  "pt": "Aragón, Clark, Dyer e Bargh (2015), Psychological Science."
+ },
+ "k1055": {
+  "es": "Ante algo muy tierno, mucha gente siente a la vez ganas de cuidar y de apretar, y eso aparece cuando la emoción positiva desborda.",
+  "pt": "Diante de algo muito fofo, muita gente sente ao mesmo tempo vontade de cuidar e de apertar, e isso aparece quando a emoção positiva transborda."
+ },
+ "k1056": {
+  "es": "Por eso la ternura agresiva dice que regula una emoción desbordante.",
+  "pt": "Por isso a fofura agressiva diz que regula uma emoção transbordante."
+ },
+ "k1057": {
+  "es": "Que sirva para regular es una hipótesis; hay apoyo con medidas cerebrales.",
+  "pt": "Que sirva para regular é uma hipótese; há apoio com medidas cerebrais."
+ },
+ "k1058": {
+  "es": "Miedo a quedar afuera",
+  "pt": "Medo de ficar de fora"
+ },
+ "k1059": {
+  "es": "Przybylski, Murayama, DeHaan y Gladwell (2013), Computers in Human Behavior.",
+  "pt": "Przybylski, Murayama, DeHaan e Gladwell (2013), Computers in Human Behavior."
+ },
+ "k1060": {
+  "es": "Definen el FOMO como la inquietud de que otros vivan experiencias valiosas sin ti. Se asoció con peor ánimo, menos satisfacción con la vida y más uso de redes.",
+  "pt": "Definem o FOMO como a inquietação de que outros vivam experiências valiosas sem você. Associou-se a pior ânimo, menos satisfação com a vida e mais uso de redes."
+ },
+ "k1061": {
+  "es": "Por eso el FOMO menciona la satisfacción y las redes.",
+  "pt": "Por isso o FOMO menciona a satisfação e as redes."
+ },
+ "k1062": {
+  "es": "Encuestas correlacionales: no muestran qué causa qué.",
+  "pt": "Pesquisas correlacionais: não mostram o que causa o quê."
+ },
+ "k1063": {
+  "es": "Alegría por el mal ajeno",
+  "pt": "Alegria com o mal alheio"
+ },
+ "k1064": {
+  "es": "van Dijk, Ouwerkerk, Goslinga y Nieweg (2005), Cognition and Emotion.",
+  "pt": "van Dijk, Ouwerkerk, Goslinga e Nieweg (2005), Cognition and Emotion."
+ },
+ "k1065": {
+  "es": "Cuanto más responsable parecía alguien de su desgracia, más schadenfreude se sentía, porque parecía merecida. La envidia también la aumenta.",
+  "pt": "Quanto mais responsável alguém parecia pela própria desgraça, mais schadenfreude se sentia, porque parecia merecida. A inveja também a aumenta."
+ },
+ "k1066": {
+  "es": "Por eso dice que crece cuando parece merecida o con alguien que envidias.",
+  "pt": "Por isso diz que cresce quando parece merecida ou com alguém que você inveja."
+ },
+ "k1067": {
+  "es": "Experimentos con escenarios; replicado en varios estudios.",
+  "pt": "Experimentos com cenários; replicado em vários estudos."
+ },
+ "k1068": {
+  "es": "Limitar las redes",
+  "pt": "Limitar as redes"
+ },
+ "k1069": {
+  "es": "Hunt, Marx, Lipson y Young (2018), Journal of Social and Clinical Psychology; Przybylski y col. (2013).",
+  "pt": "Hunt, Marx, Lipson e Young (2018), Journal of Social and Clinical Psychology; Przybylski e col. (2013)."
+ },
+ "k1070": {
+  "es": "En un experimento de tres semanas con 143 estudiantes, limitar las redes a unos 30 minutos por día bajó la soledad y la depresión; el miedo a quedar afuera bajó en los dos grupos, quizás por registrar el uso.",
+  "pt": "Num experimento de três semanas com 143 estudantes, limitar as redes a uns 30 minutos por dia baixou a solidão e a depressão; o medo de ficar de fora baixou nos dois grupos, talvez por registrar o uso."
+ },
+ "k1071": {
+  "es": "Por eso el «Úsala» del FOMO propone limitar a 30 minutos y registrar.",
+  "pt": "Por isso o «Use-a» do FOMO propõe limitar a 30 minutos e registrar."
+ },
+ "k1072": {
+  "es": "Muestra de universitarios; los metaanálisis muestran sobre todo correlaciones entre FOMO y uso problemático de redes.",
+  "pt": "Amostra de universitários; as metanálises mostram sobretudo correlações entre FOMO e uso problemático de redes."
+ },
+ "k1073": {
+  "es": "Pánico y riesgo suicida",
+  "pt": "Pânico e risco suicida"
+ },
+ "k1074": {
+  "es": "Katz, Yaseen, Mojtabai, Cohen y Galynker (2011), Journal of Clinical Psychiatry.",
+  "pt": "Katz, Yaseen, Mojtabai, Cohen e Galynker (2011), Journal of Clinical Psychiatry."
+ },
+ "k1075": {
+  "es": "En personas con depresión, las crisis de pánico se asociaron con más intentos de suicidio, aun controlando otros factores, sobre todo cuando incluían miedo a morir o a perder el control.",
+  "pt": "Em pessoas com depressão, as crises de pânico se associaram a mais tentativas de suicídio, mesmo controlando outros fatores, sobretudo quando incluíam medo de morrer ou de perder o controle."
+ },
+ "k1076": {
+  "es": "Por eso el pánico ofrece la pregunta «¿Es algo más fuerte que esto?».",
+  "pt": "Por isso o pânico oferece a pergunta «É algo mais forte que isso?»."
+ },
+ "k1077": {
+  "es": "Datos de encuestas; la depresión sigue siendo el factor más fuerte.",
+  "pt": "Dados de pesquisas; a depressão continua sendo o fator mais forte."
+ },
+ "k1078": {
+  "es": "Propósito y salud",
+  "pt": "Propósito e saúde"
+ },
+ "k1079": {
+  "es": "Cohen, Bavishi y Rozanski (2016), Psychosomatic Medicine; Sias y Turtle (2022), medRxiv.",
+  "pt": "Cohen, Bavishi e Rozanski (2016), Psychosomatic Medicine; Sias e Turtle (2022), medRxiv."
+ },
+ "k1080": {
+  "es": "En diez estudios con más de 136.000 personas, quienes tenían más propósito murieron menos en los años siguientes.",
+  "pt": "Em dez estudos com mais de 136.000 pessoas, quem tinha mais propósito morreu menos nos anos seguintes."
+ },
+ "k1081": {
+  "es": "Por eso el propósito propone una acción chica en esa dirección.",
+  "pt": "Por isso o propósito propõe uma ação pequena nessa direção."
+ },
+ "k1082": {
+  "es": "Correlacional; un análisis posterior sugiere que parte se explica al revés: la mala salud baja el propósito.",
+  "pt": "Correlacional; uma análise posterior sugere que parte se explica ao contrário: a saúde ruim baixa o propósito."
+ },
+ "k1083": {
+  "es": "Caminatas de asombro",
+  "pt": "Caminhadas de assombro"
+ },
+ "k1084": {
+  "es": "Sturm, Datta, Roy y col. (2022), Emotion.",
+  "pt": "Sturm, Datta, Roy e col. (2022), Emotion."
+ },
+ "k1085": {
+  "es": "Adultos mayores que caminaron 15 minutos por semana buscando asombro, durante 8 semanas, tuvieron más emociones positivas prosociales y menos malestar diario.",
+  "pt": "Idosos que caminharam 15 minutos por semana buscando assombro, durante 8 semanas, tiveram mais emoções positivas pró-sociais e menos mal-estar diário."
+ },
+ "k1086": {
+  "es": "Por eso la maravilla propone buscar algo grande una vez por semana.",
+  "pt": "Por isso a maravilha propõe buscar algo grande uma vez por semana."
+ },
+ "k1087": {
+  "es": "Ensayo aleatorizado chico (52 personas) y solo con adultos mayores sanos.",
+  "pt": "Ensaio randomizado pequeno (52 pessoas) e só com idosos saudáveis."
+ },
+ "k1088": {
+  "es": "Déjà vu y predicción",
+  "pt": "Déjà vu e previsão"
+ },
+ "k1089": {
+  "es": "Cleary y Claxton (2018), Psychological Science.",
+  "pt": "Cleary e Claxton (2018), Psychological Science."
+ },
+ "k1090": {
+  "es": "El déjà vu aparece ante escenas parecidas a otras que no se recuerdan. Da la sensación de poder predecir el próximo giro, pero los aciertos fueron como al azar.",
+  "pt": "O déjà vu aparece diante de cenas parecidas a outras que não se lembram. Dá a sensação de poder prever a próxima curva, mas os acertos foram como ao acaso."
+ },
+ "k1091": {
+  "es": "Por eso el «Cuidado» dice que la predicción del déjà vu falla.",
+  "pt": "Por isso o «Cuidado» diz que a previsão do déjà vu falha."
+ },
+ "k1092": {
+  "es": "Experimentos con realidad virtual; replicado por el mismo laboratorio.",
+  "pt": "Experimentos com realidade virtual; replicado pelo mesmo laboratório."
+ },
+ "k1093": {
+  "es": "Terapia de espejo",
+  "pt": "Terapia de espelho"
+ },
+ "k1094": {
+  "es": "Wang y col. (2021), Clinical Rehabilitation; Herrador Colmenero y col. (2018); revisión de 2022 con solo ensayos con placebo.",
+  "pt": "Wang e col. (2021), Clinical Rehabilitation; Herrador Colmenero e col. (2018); revisión de 2022 con solo ensayos con placebo."
+ },
+ "k1095": {
+  "es": "Un metaanálisis de 11 ensayos encontró que el espejo bajaba el dolor del miembro fantasma, con evidencia de calidad regular.",
+  "pt": "Uma metanálise de 11 ensaios encontrou que o espelho baixava a dor do membro fantasma, com evidência de qualidade regular."
+ },
+ "k1096": {
+  "es": "Por eso el «Úsala» propone preguntar por el espejo.",
+  "pt": "Por isso o «Use-a» propõe perguntar pelo espelho."
+ },
+ "k1097": {
+  "es": "Resultados mixtos: una revisión que usó solo ensayos con placebo no encontró efecto claro.",
+  "pt": "Resultados mistos: uma revisão que usou só ensaios com placebo não encontrou efeito claro."
+ },
+ "k1098": {
+  "es": "Reescribir pesadillas",
+  "pt": "Reescrever pesadelos"
+ },
+ "k1099": {
+  "es": "Casement y Swanson (2012), Clinical Psychology Review.",
+  "pt": "Casement e Swanson (2012), Clinical Psychology Review."
+ },
+ "k1100": {
+  "es": "Ensayar de día una versión nueva de la pesadilla tuvo efectos grandes en su frecuencia, el sueño y el estrés postraumático, sostenidos de 6 a 12 meses.",
+  "pt": "Ensaiar de dia uma versão nova do pesadelo teve efeitos grandes na sua frequência, no sono e no estresse pós-traumático, mantidos de 6 a 12 meses."
+ },
+ "k1101": {
+  "es": "Por eso el «Úsala» de soñar propone escribir otro final.",
+  "pt": "Por isso o «Use-a» de sonhar propõe escrever outro final."
+ },
+ "k1102": {
+  "es": "Frente a otro tratamiento activo, el efecto fue chico.",
+  "pt": "Diante de outro tratamento ativo, o efeito foi pequeno."
+ },
+ "k1103": {
+  "es": "Para qué sirve el bostezo",
+  "pt": "Para que serve o bocejo"
+ },
+ "k1104": {
+  "es": "Gallup y Eldakar (2013), Frontiers in Neuroscience.",
+  "pt": "Gallup e Eldakar (2013), Frontiers in Neuroscience."
+ },
+ "k1105": {
+  "es": "El bostezo cambia con la temperatura del ambiente, de acuerdo con la idea de que enfría el cerebro. La idea de que sube el oxígeno fue descartada.",
+  "pt": "O bocejo muda com a temperatura do ambiente, de acordo com a ideia de que esfria o cérebro. A ideia de que aumenta o oxigênio foi descartada."
+ },
+ "k1106": {
+  "es": "Por eso el «Cuidado» dice que no indica falta de oxígeno.",
+  "pt": "Por isso o «Cuidado» diz que não indica falta de oxigênio."
+ },
+ "k1107": {
+  "es": "Revisión del grupo que propone la teoría; su función sigue en debate.",
+  "pt": "Revisão do grupo que propõe a teoria; sua função segue em debate."
  }
 }
