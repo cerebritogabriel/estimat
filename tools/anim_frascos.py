@@ -3,7 +3,7 @@ metas divididas que reciben ✓, cada ✓ cae como pelota en el frasco, y abajo 
 Uso: python3 tools/anim_frascos.py  -> imprime el SVG (con marcas {{t:…}} para los textos)."""
 import random
 
-COL = ['#6bb0a7', '#3b70c0', '#875169', '#f5a097', '#7b7d55', '#efd49f', '#bf9268', '#8c4737']
+COL = ['#8c4737', '#bf9268', '#efd49f', '#7b7d55']
 JAR = ('M22 4h40M26 4v10C10 22 8 30 8 44v54a10 10 0 0 0 10 10h48a10 10 0 0 0 10-10V44'
        'c0-14-2-22-18-30V4')
 R = 4.6
@@ -42,18 +42,21 @@ def svg():
     o = ['<svg viewBox="0 0 %d %d" width="%d" height="%d" role="img" aria-label="{{t:A11Y}}" '
          'style="display:block;max-width:100%%;height:auto;overflow:visible">' % (W, H, W, H)]
     # metas divididas
-    filas = [(30, 0, 118), (74, 1, 92), (118, 3, 106), (162, 4, 84), (206, 6, 112)]
+    NIV = [('Corporal', '#8c4737'), ('Racional', '#bf9268'), ('Emocional', '#efd49f'), ('Social', '#7b7d55'), ('Ser', 'url(#fser)')]
+    filas = [(30, 0, 0), (74, 1, 0), (118, 2, 0), (162, 3, 0), (206, 4, 0)]
+    o.append('<defs><radialGradient id="fser" cx=".35" cy=".35" r=".7"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#fff6d8"/><stop offset="1" stop-color="#f2c94c"/></radialGradient></defs>')
     t0, dt = 0.8, 1.0
     jx, jy, js = 226, 56, 1.1
     base = pila(None, 3)
     ini, nuevas = base[:-5], base[-5:]
     caen = []  # pelotas que caen en el frasco principal
     for i, (y, ci, ancho) in enumerate(filas):
-        c = COL[ci]
+        nm, c = NIV[ci]
         b = t0 + i * dt
         o.append('<rect x="8" y="%d" width="196" height="34" rx="12" fill="#fdfbf9" stroke="#ded5c7"/>' % (y - 17))
         o.append('<circle cx="26" cy="%d" r="6" fill="%s"/>' % (y, c))
-        o.append('<rect x="40" y="%d" width="%d" height="8" rx="4" fill="#ece5da"/>' % (y - 4, ancho))
+        o.append('<text x="42" y="%d" font-family="Open Sans,sans-serif" font-size="14" font-weight="600" fill="#4a4542">%s</text>' % (y + 5, nm))
+        if ci == 4: o.append('<circle cx="26" cy="%d" r="6" fill="none" stroke="#e0a82e" stroke-width="1.2"/>' % y)
         o.append('<circle cx="184" cy="%d" r="9" fill="#fdfbf9" stroke="#c0b4a2" stroke-width="1.4"/>' % y)
         o.append('<path d="M179 %d l3.5 3.5 l6.5 -7" fill="none" stroke="#3f8f5c" stroke-width="2.2" '
                  'stroke-linecap="round" stroke-linejoin="round" pathLength="100" stroke-dasharray="100 100" '
@@ -69,12 +72,12 @@ def svg():
             caen.append('<circle class="fball" r="%.1f" fill="%s" opacity="0"><set attributeName="opacity" to="1" begin="indefinite" fill="freeze"/>'
                      '<animateMotion dur=".9s" begin="indefinite" fill="freeze" path="M184 %d Q%.0f %.0f %.1f %.1f L%.1f %.1f" '
                      'keyPoints="0;.55;1" keyTimes="0;.5;1" calcMode="linear"/></circle>'
-                     % (R * js, COL[(ci + j) % 8] if j else c, y, (184 + mx) / 2, min(y, my) - 40, mx, my, X, Y))
+                     % (R * js * (2.1 if ci == 4 else 1), c, y, (184 + mx) / 2, min(y, my) - 40, mx, my, X, Y - (5 if ci == 4 else 0)))
     # frasco a la mitad
     fin = t0 + len(filas) * dt + .6
     k = (34 / 84) / js
     tx, ty = 8 + 4 * 42 - k * jx, 252 - k * jy
-    o.append('<g>' + frasco(jx, jy, js, [(p, COL[rnd.randrange(8)]) for p in ini], 2) + ''.join(caen) +
+    o.append('<g>' + frasco(jx, jy, js, [(p, COL[rnd.randrange(4)]) for p in ini], 2) + ''.join(caen) +
              '<animateTransform class="fjar" attributeName="transform" type="translate" values="0,0;%.1f,%.1f" dur=".8s" begin="indefinite" fill="freeze"/>'
              '<animateTransform class="fjar" attributeName="transform" type="scale" additive="sum" values="1;%.3f" dur=".8s" begin="indefinite" fill="freeze"/>'
              '<animate class="fjarx" attributeName="opacity" from="1" to="0" dur=".2s" begin="indefinite" fill="freeze"/></g>'
@@ -84,7 +87,8 @@ def svg():
     o.append('<path d="M8 300H334" stroke="#c0b4a2" stroke-width="2" stroke-linecap="round"/>')
     lleno = pila(None, 11)
     for k in range(5):
-        g = frasco(0, 0, 34 / 84, [(p, COL[rnd.randrange(8)]) for p in lleno], 4)
+        g = frasco(0, 0, 34 / 84, [(p, COL[rnd.randrange(4)]) for p in lleno], 4)
+        g = g[:-4] + '<circle cx="42" cy="%.1f" r="%.1f" fill="url(#fser)" stroke="#e0a82e" stroke-width="1.2"/></g>' % (nuevas[4][1] - 5, R * 2.1)
         x = 8 + k * 42
         if k < 4:
             o.append('<g transform="translate(%d,252)">%s</g>' % (x, g))
