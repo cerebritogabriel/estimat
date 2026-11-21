@@ -8,8 +8,8 @@
   "pt": "Configurações"
  },
  "k0003": {
-  "es": "Mapea tus expectativas, invierte en acciones<br>y mira el",
-  "pt": "Mapeie suas expectativas, invista em ações<br>e veja o"
+  "es": "Mapea tus expectativas, invierte en acciones<br>y mira tu bienestar fluyendo",
+  "pt": "Mapeie suas expectativas, invista em ações<br>e veja seu bem-estar fluindo"
  },
  "k0004": {
   "es": "A veces tenemos",
@@ -28,12 +28,12 @@
   "pt": "A peça que falta: o terceiro cotovelo"
  },
  "k0008": {
-  "es": "Avanza para insertar",
-  "pt": "Avance para inserir"
+  "es": "Arrastra la pieza al hueco",
+  "pt": "Arraste a peça até o buraco"
  },
  "k0009": {
-  "es": "y falta una pequeña pieza para realizarlas",
-  "pt": "e falta uma pequena peça para realizá-las"
+  "es": "y la pieza que falta, la pones tú",
+  "pt": "e a peça que falta, você coloca"
  },
  "k0010": {
   "es": "Ahora sí, puedes",
@@ -100,12 +100,12 @@
   "pt": "Analisar sua evolução e ajustar onde investir"
  },
  "k0026": {
-  "es": "Con tus datos, apostamos a que será más fácil conocerte, negociar contigo tus expectativas y descubrir qué vale más para tu bienestar",
-  "pt": "Com seus dados, apostamos que será mais fácil se conhecer, negociar com você mesmo suas expectativas e descobrir o que vale mais para seu bem-estar"
+  "es": "Con tus datos, apostamos a que será más fácil entenderte, negociar contigo tus expectativas y descubrir qué vale más para tu bienestar",
+  "pt": "Com seus dados, apostamos que será mais fácil se entender, negociar com você mesmo suas expectativas e descobrir o que vale mais para seu bem-estar"
  },
  "k0027": {
-  "es": "cuanto más te conoces, más fluyes",
-  "pt": "quanto mais você se conhece, mais você flui"
+  "es": "cuanto más te entiendes, más fluyes",
+  "pt": "quanto mais você se entende, mais você flui"
  },
  "k0028": {
   "es": "la historia",
@@ -120,20 +120,20 @@
   "pt": "O problema:<\\/b> sua expectativa e sua realidade não coincidem. A distância dói ou confunde. O app ESTIMAT pode ajudar você a negociá-la"
  },
  "k0031": {
-  "es": "En la app ESTIMAT buscamos tu bienestar a largo plazo. Proponemos un camino: conocerte con tus propios datos, en lo que te sale bien y en lo que te sale mal. Ves dónde fallan tus predicciones sobre ti y decides mejor con eso. Que funcione es una apuesta, y te invitamos a hacerla con nosotros. Puede ayudarte mucho o poco. Al final tendrás datos para juzgar cuánto vale conocerte en tu",
-  "pt": "No app ESTIMAT buscamos seu bem-estar a longo prazo. Propomos um caminho: conhecer você com seus próprios dados, no que dá certo e no que dá errado. Você vê onde suas previsões sobre você falham e decide melhor com isso. É uma aposta, e convidamos você a fazê-la com a gente. Pode ajudar muito ou pouco. No fim, você terá dados para julgar quanto vale se conhecer na sua"
+  "es": "En la app ESTIMAT buscamos tu bienestar a largo plazo. Proponemos un camino: entenderte con tus propios datos, en lo que te sale bien y en lo que te sale mal. Ves dónde fallan tus predicciones sobre ti y decides mejor con eso. Que funcione es una apuesta, y te invitamos a hacerla con nosotros. Puede ayudarte mucho o poco. Al final tendrás datos para juzgar cuánto vale entenderte en tu",
+  "pt": "No app ESTIMAT buscamos seu bem-estar a longo prazo. Propomos um caminho: entender você com seus próprios dados, no que dá certo e no que dá errado. Você vê onde suas previsões sobre você falham e decide melhor com isso. É uma aposta, e convidamos você a fazê-la com a gente. Pode ajudar muito ou pouco. No fim, você terá dados para julgar quanto vale se entender na sua"
  },
  "k0032": {
   "es": "La app selecciona preguntas clave para orientarte a identificar tus expectativas y organizarlas en lo que llamamos mapa de metas. Con ese mapa puedes elegir en qué acción vale más invertir, con más seguridad",
   "pt": "O app seleciona perguntas-chave para orientar você a identificar suas expectativas e organizá-las no que chamamos de mapa de metas. Com esse mapa você pode escolher em que ação vale mais investir, com mais segurança"
  },
  "k0033": {
-  "es": "Después comparas tus predicciones con lo que viviste, para actualizar tus creencias sobre ti. Y continúas el flujo de autoconocimiento y desarrollo personal",
-  "pt": "Depois você compara suas previsões com o que viveu, para atualizar suas crenças sobre você. E continua o fluxo de autoconhecimento e desenvolvimento pessoal"
+  "es": "Después comparas tus predicciones con lo que viviste, para actualizar tus creencias sobre ti. Y continúas el flujo de autocomprensión y desarrollo personal",
+  "pt": "Depois você compara suas previsões com o que viveu, para atualizar suas crenças sobre você. E continua o fluxo de autocompreensão e desenvolvimento pessoal"
  },
  "k0034": {
-  "es": "nivel que completas libera funciones para conocerte con más precisión",
-  "pt": "nível que você completa libera funções para se conhecer com mais precisão"
+  "es": "nivel que completas libera funciones para entenderte con más precisión",
+  "pt": "nível que você completa libera funções para se entender com mais precisão"
  },
  "k0035": {
   "es": "La estructura de la app se apoya principalmente en: <a href=# data-ref=cib class=rfl>cibernética</a>, <a href=# data-ref=info class=rfl>teoría de la información</a>, <a href=# data-ref=imp class=rfl>pronóstico afectivo</a>, <a href=# data-ref=bayes class=rfl>actualización bayesiana</a> y <a href=# data-ref=neg class=rfl>negociación</a>.<br>*Tus datos quedan en tu dispositivo, sin crear una cuenta",
@@ -432,8 +432,8 @@
   "pt": "Muitas vezes misturamos as prioridades dos outros com as nossas. Somos muito sociais: o social foi chave para sobreviver (<a href=# data-ref=soc class=rfl>hipótese"
  },
  "k0109": {
-  "es": "Así perdemos de vista lo que nos importa a nosotros. Eso dificulta conocerte. También dificulta negociar: si no sabes qué necesitas, cedes sin darte cuenta (<a href=# data-ref=neg class=rfl>enfoque práctico de negociación",
-  "pt": "Assim perdemos de vista o que importa para nós. Isso dificulta se conhecer. Também dificulta negociar: se você não sabe o que precisa, cede sem perceber (<a href=# data-ref=neg class=rfl>abordagem prática de negociação"
+  "es": "Así perdemos de vista lo que nos importa a nosotros. Eso dificulta entenderte. También dificulta negociar: si no sabes qué necesitas, cedes sin darte cuenta (<a href=# data-ref=neg class=rfl>enfoque práctico de negociación",
+  "pt": "Assim perdemos de vista o que importa para nós. Isso dificulta se entender. Também dificulta negociar: se você não sabe o que precisa, cede sem perceber (<a href=# data-ref=neg class=rfl>abordagem prática de negociação"
  },
  "k0110": {
   "es": "con otros, pregúntate a ti: ¿qué necesito?, ¿qué me importa?, ¿cómo me siento? Definir tu meta emocional separa tus prioridades de las ajenas",
@@ -816,8 +816,8 @@
   "pt": "agir"
  },
  "k0205": {
-  "es": "En esos momentos, te invitamos a conocerte",
-  "pt": "Nesses momentos, convidamos você a se conhecer"
+  "es": "En esos momentos, te invitamos a entenderte",
+  "pt": "Nesses momentos, convidamos você a se entender"
  },
  "k0206": {
   "es": "la red de ramas se dibuja el mapa de flujo y niveles. Aparecen sus ocho colores. Se destaca la zona emocional del lado de ofrecer",
@@ -864,8 +864,8 @@
   "pt": "Exemplo com dados reais: 31 dias de quem criou o app ESTIMAT. Soma a satisfação de cada retorno registrado, para não perder a noção do todo. Não são seus dados nem uma promessa. Não prova a"
  },
  "k0218": {
-  "es": "Nuestra apuesta: si te conoces mejor, ganas más bienestar a largo plazo",
-  "pt": "Nossa aposta: se você se conhece melhor, ganha mais bem-estar a longo prazo"
+  "es": "Nuestra apuesta: si te entiendes mejor, ganas más bienestar a largo plazo",
+  "pt": "Nossa aposta: se você se entende melhor, ganha mais bem-estar a longo prazo"
  },
  "k0219": {
   "es": "Río con entrada a la izquierda, proceso en el centro y salida a la derecha. Un molino de agua sobre el proceso gira cuando el agua pasa. Una línea de retroalimentación lleva la salida de vuelta a la",
@@ -2192,8 +2192,8 @@
   "pt": "Meditar basta?',p:'Lu andava irritada, faltava uma peça…',pz:'uma peça"
  },
  "k0550": {
-  "es": "Camino de autoconocimiento · nivel ',n:'Nivel ',c:'Camino de autoconocimiento",
-  "pt": "Caminho de autoconhecimento · nível ',n:'Nível ',c:'Caminho de autoconhecimento"
+  "es": "Camino de autocomprensión · nivel ',n:'Nivel ',c:'Camino de autocomprensión",
+  "pt": "Caminho de autocompreensão · nível ',n:'Nível ',c:'Caminho de autocompreensão"
  },
  "k0551": {
   "es": "Piensa qué realizar para estar más satisfecho.',c:'Piensa qué conquistar para estar más satisfecho.',o:'Piensa qué ofrecer para estar más satisfecho",
@@ -3488,16 +3488,16 @@
   "pt": "O ânimo tinge o que você espera"
  },
  "k0874": {
-  "es": "Con buen ánimo, la gente estimó como menos probables los riesgos; con mal ánimo, como más probables. Este efecto se replicó en muchas tareas.",
-  "pt": "Com bom ânimo, as pessoas estimaram os riscos como menos prováveis; com mau ânimo, como mais prováveis. Este efeito se replicou em muitas tarefas."
+  "es": "557 estudiantes universitarios leyeron una noticia trágica, por ejemplo un apuñalamiento, y después estimaron cuántas muertes hay por año por varias causas. Estimaron más muertes por todas las causas, no solo por las parecidas: el apuñalamiento subió tanto la estimación de homicidios como la de desastres naturales.",
+  "pt": "557 estudantes universitários leram uma notícia trágica, por exemplo um esfaqueamento, e depois estimaram quantas mortes há por ano por várias causas. Estimaram mais mortes por todas as causas, não só pelas parecidas: o esfaqueamento aumentou tanto a estimativa de homicídios quanto a de desastres naturais."
  },
  "k0875": {
   "es": "Por eso el «Cuidado» de la diversión dice que puedes predecir de más.",
   "pt": "Por isso o «Cuidado» da diversão diz que você pode prever demais."
  },
  "k0876": {
-  "es": "Efecto bien replicado en laboratorio; su tamaño en decisiones reales es menos claro.",
-  "pt": "Efeito bem replicado em laboratório; seu tamanho em decisões reais é menos claro."
+  "es": "Riesgos reales (cáncer, homicidio, desastres), pero se comparó con un grupo que no leyó la noticia, no con las cifras reales: muestra que el ánimo empuja las estimaciones, no cuánto se equivocan. Experimentos de laboratorio con estudiantes.",
+  "pt": "Riscos reais (câncer, homicídio, desastres), mas comparou-se com um grupo que não leu a notícia, não com os números reais: mostra que o ânimo empurra as estimativas, não quanto erram. Experimentos de laboratório com estudantes."
  },
  "k0877": {
   "es": "El ciclo del placer sexual",

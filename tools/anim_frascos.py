@@ -57,27 +57,28 @@ def svg():
         o.append('<circle cx="184" cy="%d" r="9" fill="#fdfbf9" stroke="#c0b4a2" stroke-width="1.4"/>' % y)
         o.append('<path d="M179 %d l3.5 3.5 l6.5 -7" fill="none" stroke="#3f8f5c" stroke-width="2.2" '
                  'stroke-linecap="round" stroke-linejoin="round" pathLength="100" stroke-dasharray="100 100" '
-                 'stroke-dashoffset="100"><animate attributeName="stroke-dashoffset" from="100" to="0" dur=".3s" '
-                 'begin="%.2fs" fill="freeze"/></path>' % (y, b))
+                 'stroke-dashoffset="100"><animate class="fck" attributeName="stroke-dashoffset" from="100" to="0" dur=".3s" '
+                 'begin="indefinite" fill="freeze"/></path>' % (y,))
+        o.append('<rect data-pck="%d" x="8" y="%d" width="196" height="34" rx="12" fill="transparent" style="cursor:pointer"/>' % (i, y - 17))
         # la pelota sale del ✓ y cae en el frasco
         for j in range(1):
             sx, sy = nuevas[i + j]
             X, Y = jx + js * sx, jy + js * sy
             mx, my = jx + js * 42, jy - 8
             bj = b + .3 + j * .12
-            caen.append('<circle r="%.1f" fill="%s" opacity="0"><set attributeName="opacity" to="1" begin="%.2fs" fill="freeze"/>'
-                     '<animateMotion dur=".9s" begin="%.2fs" fill="freeze" path="M184 %d Q%.0f %.0f %.1f %.1f L%.1f %.1f" '
+            caen.append('<circle class="fball" r="%.1f" fill="%s" opacity="0"><set attributeName="opacity" to="1" begin="indefinite" fill="freeze"/>'
+                     '<animateMotion dur=".9s" begin="indefinite" fill="freeze" path="M184 %d Q%.0f %.0f %.1f %.1f L%.1f %.1f" '
                      'keyPoints="0;.55;1" keyTimes="0;.5;1" calcMode="linear"/></circle>'
-                     % (R * js, COL[(ci + j) % 8] if j else c, bj, bj, y, (184 + mx) / 2, min(y, my) - 40, mx, my, X, Y))
+                     % (R * js, COL[(ci + j) % 8] if j else c, y, (184 + mx) / 2, min(y, my) - 40, mx, my, X, Y))
     # frasco a la mitad
     fin = t0 + len(filas) * dt + .6
     k = (34 / 84) / js
     tx, ty = 8 + 4 * 42 - k * jx, 252 - k * jy
     o.append('<g>' + frasco(jx, jy, js, [(p, COL[rnd.randrange(8)]) for p in ini], 2) + ''.join(caen) +
-             '<animateTransform attributeName="transform" type="translate" values="0,0;%.1f,%.1f" dur=".8s" begin="%.2fs" fill="freeze"/>'
-             '<animateTransform attributeName="transform" type="scale" additive="sum" values="1;%.3f" dur=".8s" begin="%.2fs" fill="freeze"/>'
-             '<animate attributeName="opacity" from="1" to="0" dur=".2s" begin="%.2fs" fill="freeze"/></g>'
-             % (tx, ty, fin, k, fin, fin + .9))
+             '<animateTransform class="fjar" attributeName="transform" type="translate" values="0,0;%.1f,%.1f" dur=".8s" begin="indefinite" fill="freeze"/>'
+             '<animateTransform class="fjar" attributeName="transform" type="scale" additive="sum" values="1;%.3f" dur=".8s" begin="indefinite" fill="freeze"/>'
+             '<animate class="fjarx" attributeName="opacity" from="1" to="0" dur=".2s" begin="indefinite" fill="freeze"/></g>'
+             % (tx, ty, k))
     # estante con frascos llenos
     o.append('<text x="8" y="244" font-family="Open Sans,sans-serif" font-size="12" font-weight="600" fill="#9a918a">{{t:SHELF}}</text>')
     o.append('<path d="M8 300H334" stroke="#c0b4a2" stroke-width="2" stroke-linecap="round"/>')
@@ -89,8 +90,8 @@ def svg():
             o.append('<g transform="translate(%d,252)">%s</g>' % (x, g))
         else:  # el quinto llega al final
             b = fin + .75
-            o.append('<g transform="translate(%d,252)" opacity="0"><set attributeName="opacity" to="1" begin="%.2fs" fill="freeze"/>'
-                     '%s</g>' % (x, b, g))
+            o.append('<g transform="translate(%d,252)" opacity="0"><set class="fj5" attributeName="opacity" to="1" begin="indefinite" fill="freeze"/>'
+                     '%s</g>' % (x, g))
     o.append('</svg>')
     return ''.join(o)
 
