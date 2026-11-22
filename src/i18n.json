@@ -8,8 +8,8 @@
   "pt": "Configurações"
  },
  "k0003": {
-  "es": "Mapea tus expectativas, invierte en acciones<br>y fluye hacia tu bienestar",
-  "pt": "Mapeie suas expectativas, invista em ações<br>e flua rumo ao seu bem-estar"
+  "es": "De expectativas abstractas a acciones concretas:<br>fluye hacia tu mayor bienestar",
+  "pt": "De expectativas abstratas a ações concretas:<br>flua rumo ao seu maior bem-estar"
  },
  "k0004": {
   "es": "A veces tenemos",
@@ -48,8 +48,8 @@
   "pt": "mas na realidade podemos não ter só uma expectativa e uma forma de realizá-la"
  },
  "k0013": {
-  "es": "Tú pones tus deseos; nosotros, la ciencia simplificada",
-  "pt": "Você coloca seus desejos; nós, a ciência simplificada"
+  "es": "Tú pones tus expectativas; nosotros, la ciencia simplificada para comprenderlas",
+  "pt": "Você coloca suas expectativas; nós, a ciência simplificada para compreendê-las"
  },
  "k0014": {
   "es": "Elegir qué deseas ser, sin plazo, y qué deseas realizar, con plazo",
@@ -72,8 +72,8 @@
   "pt": "Outras funções que são liberadas conforme você progride"
  },
  "k0019": {
-  "es": "Invertimos en acciones",
-  "pt": "Investimos em ações"
+  "es": "Actúas",
+  "pt": "Você age"
  },
  "k0020": {
   "es": "la acción con tu",
@@ -92,8 +92,8 @@
   "pt": "o"
  },
  "k0024": {
-  "es": "el retorno con lo que esperabas",
-  "pt": "o retorno com o que você esperava"
+  "es": "los resultados con lo que esperabas",
+  "pt": "os resultados com o que você esperava"
  },
  "k0025": {
   "es": "Analizar tu evolución y ajustar dónde invertir",
@@ -140,12 +140,12 @@
   "pt": "A estrutura do app se apoia principalmente em: <a href=# data-ref=cib class=rfl>cibernética<\\/a>, <a href=# data-ref=info class=rfl>teoria da informação<\\/a>, <a href=# data-ref=imp class=rfl>previsão afetiva<\\/a>, <a href=# data-ref=bayes class=rfl>atualização bayesiana<\\/a> e <a href=# data-ref=neg class=rfl>negociação<\\/a>.<br>*Seus dados ficam no seu dispositivo, sem criar uma conta"
  },
  "k0036": {
-  "es": "Imaginarás tu yo futuro y responderás preguntas que definen y dividen tus expectativas en metas de mejora continua. Así tendrás tu mapa de metas de mejora continua. Con él podrás construir después tu mapa de metas con un fin",
-  "pt": "Você vai imaginar seu eu futuro e responder perguntas que definem e dividem suas expectativas em metas de melhoria contínua. Assim terá seu mapa de metas de melhoria contínua. Com ele poderá construir depois seu mapa de metas com um fim"
+  "es": "En esta parte haremos tu mapa de metas de mejora continua. Con él podrás construir después tu mapa de metas con un fin",
+  "pt": "Nesta parte faremos seu mapa de metas de melhoria contínua. Com ele poderá construir depois seu mapa de metas com um fim"
  },
  "k0037": {
-  "es": "Paras cuando tengas confianza suficiente para invertir en una acción. Toca «Invertir», abajo",
-  "pt": "Você para quando tiver confiança suficiente para investir em uma ação. Toque em «Investir», abaixo"
+  "es": "Paras cuando tengas confianza suficiente para actuar. Toca «Actuar», abajo",
+  "pt": "Você para quando tiver confiança suficiente para agir. Toque em «Agir», abaixo"
  },
  "k0038": {
   "es": "Sin un mapa, es fácil perderse",
@@ -796,8 +796,8 @@
   "pt": "informação"
  },
  "k0200": {
-  "es": "¿Sería raro no estar siempre a gusto con tantos deseos y expectativas",
-  "pt": "Seria estranho nem sempre estar à vontade com tantos desejos e expectativas"
+  "es": "¿Sería raro no estar siempre a gusto con tantas expectativas y deseos",
+  "pt": "Seria estranho nem sempre estar à vontade com tantas expectativas e desejos"
  },
  "k0201": {
   "es": "El agua entra por la derecha y se divide en ramas cortas, siempre con el mismo ángulo, hasta llenar todo un rectángulo, como neuronas. Se pierde agua en varias ramas, sobre todo a la derecha, y casi no llega arriba a la derecha. Después el agua baja y sale por la izquierda",
@@ -808,16 +808,16 @@
   "pt": "Às vezes agimos sem escutar o que mais"
  },
  "k0203": {
-  "es": "A veces nos quedamos en el deseo, sin",
-  "pt": "Às vezes ficamos no desejo, sem"
+  "es": "A veces nos quedamos en la necesidad, sin",
+  "pt": "Às vezes ficamos na necessidade, sem"
  },
  "k0204": {
   "es": "actuar",
   "pt": "agir"
  },
  "k0205": {
-  "es": "En esos momentos, te invitamos a comprenderte",
-  "pt": "Nesses momentos, convidamos você a se compreender"
+  "es": "En esos momentos, te invitamos a comprender tus necesidades",
+  "pt": "Nesses momentos, convidamos você a compreender suas necessidades"
  },
  "k0206": {
   "es": "la red de ramas se dibuja el mapa de flujo y niveles. Aparecen sus ocho colores. Se destaca la zona emocional del lado de ofrecer",
@@ -888,8 +888,8 @@
   "pt": "Ação · Faixa"
  },
  "k0224": {
-  "es": "Invertir",
-  "pt": "Investir"
+  "es": "Actuar",
+  "pt": "Agir"
  },
  "k0225": {
   "es": "Acción · Flujo",
@@ -1304,8 +1304,8 @@
   "pt": "biruta"
  },
  "k0328": {
-  "es": "¿Invertir en mi",
-  "pt": "Investir na minha"
+  "es": "¿Escuchar a mi",
+  "pt": "Escutar a minha"
  },
  "k0329": {
   "es": "Energía',10)+t(282,162,'Satisfacción",
@@ -1344,12 +1344,12 @@
   "pt": "A segunda-feira','Lu sentia que sua motivação se derramava. No domingo meditou e decidiu mudar toda a sua vida na segunda-feira. Na quarta já tinha desistido. Faltava uma peça: um plano"
  },
  "k0338": {
-  "es": "Una pista','Lu dejó sus metas, hasta que vio en Instagram a un chiflado gentil que decía: «Tu expectativa pide. La realidad responde. Tú negocias». Así encontró la",
-  "pt": "Uma pista','Lu deixou suas metas de lado, até que viu no Instagram um biruta gentil que dizia: «Sua expectativa pede. A realidade responde. Você negocia». Assim encontrou o"
+  "es": "Una pista','Lu dejó sus metas, hasta que vio en Instagram a un chiflado gentil que decía: «Tu necesidad pide. Tu expectativa imagina. La realidad responde». Así encontró la",
+  "pt": "Uma pista','Lu deixou suas metas de lado, até que viu no Instagram um biruta gentil que dizia: «Sua necessidade pede. Sua expectativa imagina. A realidade responde». Assim encontrou o"
  },
  "k0339": {
-  "es": "Una idea rara','Negociar sus expectativas e invertir en acciones le pareció raro. Aun así, invertir la motivaba",
-  "pt": "Uma ideia estranha','Negociar suas expectativas e investir em ações pareceu estranho. Ainda assim, investir a motivava"
+  "es": "Una idea rara','Escuchar sus necesidades y comparar lo que esperaba con lo que obtenía le pareció raro. Aun así, mejorar sus expectativas la motivaba",
+  "pt": "Uma ideia estranha','Escutar suas necessidades e comparar o que esperava com o que obtinha pareceu estranho. Ainda assim, melhorar suas expectativas a motivava"
  },
  "k0340": {
   "es": "El inicio','Lu quería amistades más profundas y dividió su expectativa en flujos: conquistar amistades y ofrecer escucha",
@@ -1396,8 +1396,8 @@
   "pt": "Voltar"
  },
  "k0351": {
-  "es": "Negocia con','tus expectativas','e invierte','en ellas",
-  "pt": "Negocie com','suas expectativas','e invista','nelas"
+  "es": "Escucha','tus necesidades,','actúa','y compara",
+  "pt": "Escute','suas necessidades,','aja','e compare"
  },
  "k0352": {
   "es": "Oscuro",
@@ -2200,8 +2200,8 @@
   "pt": "Pense no que realizar para ficar mais satisfeito.',c:'Pense no que conquistar para ficar mais satisfeito.',o:'Pense no que oferecer para ficar mais satisfeito"
  },
  "k0552": {
-  "es": "Invertir',intro:'Introducción a invertir',af:'1. Afecto y emoción al iniciar',meta:'2. ¿En qué meta inviertes?',meta0:'2. ¿En qué inviertes?',pick:'Elegir en el mapa',flu:'2.1 Intención de flujo',niv:'2.2 Nivel de meta',per:'3. Tiempo',perq:'¿Por cuánto tiempo quieres mantener el enfoque de esta inversión? Al hacer el retorno, se resta el tiempo de otras acciones que se superpusieron y ya tienen retorno.',perTip:'¿Por qué importa el tiempo?',perTx1:'Solemos calcular mal cuánto tarda algo. Casi siempre creemos que será más rápido. Se llama falacia de planificación: calcular de menos.',perTx2:'Elegir el tiempo te obliga a pensarlo. Después, en Retorno, puedes comparar lo previsto con lo real.',inv:'4. Energía y satisfacción esperadas',plan:'5. Plan',esp:'6. Especificaciones',espT:'Título',espPh:'Título: 2 o 3 palabras',espAuto:'Automático: ',espN:'Especificación (opcional)',note:'Completa lo que quieras. El tiempo es obligatorio.',fm:'Mapear',fi:'Invertir',fr:'Retorno',conf:'Confirmar inversión',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tiempo',mInv:'recipientes',ok:'Inversión confirmada · ',closes:'cierra en ',atEnd:'evalúa al terminar',bay:'¿Cómo se mezcla tu predicción?',lastN:'La última vez escribiste:',pdq:'¿Cuánto tiempo por día planeas dedicarle?',opt:'(opcional)',pday:'por día',draft:'Borrador guardado',reset:'Reiniciar',afq:'Sobre el afecto',afr:'Si cambias una respuesta, las siguientes se rehacen.',prev:'Pantalla anterior',next:'Pantalla siguiente",
-  "pt": "Investir',intro:'Introdução a investir',af:'1. Afeto e emoção ao iniciar',meta:'2. Em que meta você investe?',meta0:'2. Em que você investe?',pick:'Escolher no mapa',flu:'2.1 Intenção de fluxo',niv:'2.2 Nível de meta',per:'3. Tempo',perq:'Por quanto tempo você quer manter o foco deste investimento? No retorno, desconta-se o tempo de outras ações que se sobrepuseram e já têm retorno.',perTip:'Por que o tempo importa?',perTx1:'Costumamos calcular mal quanto algo demora. Quase sempre achamos que será mais rápido. Isso se chama falácia do planejamento: calcular de menos.',perTx2:'Escolher o tempo obriga você a pensar nisso. Depois, em Retorno, você pode comparar o previsto com o real.',inv:'4. Energia e satisfação esperadas',plan:'5. Plano',esp:'6. Especificações',espT:'Título',espPh:'Título: 2 ou 3 palavras',espAuto:'Automático: ',espN:'Especificação (opcional)',note:'Complete o que quiser. O tempo é obrigatório.',fm:'Mapear',fi:'Investir',fr:'Retorno',conf:'Confirmar investimento',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tempo',mInv:'recipientes',ok:'Investimento confirmado · ',closes:'fecha em ',atEnd:'avalie ao terminar',bay:'Como sua previsão se mistura?',lastN:'Da última vez você escreveu:',pdq:'Quanto tempo por dia você planeja dedicar?',opt:'(opcional)',pday:'por dia',draft:'Rascunho salvo',reset:'Reiniciar',afq:'Sobre o afeto',afr:'Se você mudar uma resposta, as seguintes são refeitas.',prev:'Tela anterior',next:'Próxima tela"
+  "es": "Invertir',intro:'Introducción a invertir',af:'1. Afecto y emoción al iniciar',meta:'2. ¿En qué meta inviertes?',meta0:'2. ¿En qué inviertes?',pick:'Elegir en el mapa',flu:'2.1 Intención de flujo',niv:'2.2 Nivel de meta',per:'3. Tiempo',perq:'¿Por cuánto tiempo quieres mantener el enfoque de esta inversión? Al hacer el retorno, se resta el tiempo de otras acciones que se superpusieron y ya tienen retorno.',perTip:'¿Por qué importa el tiempo?',perTx1:'Solemos calcular mal cuánto tarda algo. Casi siempre creemos que será más rápido. Se llama falacia de planificación: calcular de menos.',perTx2:'Elegir el tiempo te obliga a pensarlo. Después, en Retorno, puedes comparar lo previsto con lo real.',inv:'4. Energía y satisfacción esperadas',plan:'5. Plan',esp:'6. Especificaciones',espT:'Título',espPh:'Título: 2 o 3 palabras',espAuto:'Automático: ',espN:'Especificación (opcional)',note:'Completa lo que quieras. El tiempo es obligatorio.',fm:'Mapear',fi:'Actuar',fr:'Retorno',conf:'Confirmar inversión',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tiempo',mInv:'recipientes',ok:'Inversión confirmada · ',closes:'cierra en ',atEnd:'evalúa al terminar',bay:'¿Cómo se mezcla tu predicción?',lastN:'La última vez escribiste:',pdq:'¿Cuánto tiempo por día planeas dedicarle?',opt:'(opcional)',pday:'por día',draft:'Borrador guardado',reset:'Reiniciar',afq:'Sobre el afecto',afr:'Si cambias una respuesta, las siguientes se rehacen.',prev:'Pantalla anterior',next:'Pantalla siguiente",
+  "pt": "Investir',intro:'Introdução a investir',af:'1. Afeto e emoção ao iniciar',meta:'2. Em que meta você investe?',meta0:'2. Em que você investe?',pick:'Escolher no mapa',flu:'2.1 Intenção de fluxo',niv:'2.2 Nível de meta',per:'3. Tempo',perq:'Por quanto tempo você quer manter o foco deste investimento? No retorno, desconta-se o tempo de outras ações que se sobrepuseram e já têm retorno.',perTip:'Por que o tempo importa?',perTx1:'Costumamos calcular mal quanto algo demora. Quase sempre achamos que será mais rápido. Isso se chama falácia do planejamento: calcular de menos.',perTx2:'Escolher o tempo obriga você a pensar nisso. Depois, em Retorno, você pode comparar o previsto com o real.',inv:'4. Energia e satisfação esperadas',plan:'5. Plano',esp:'6. Especificações',espT:'Título',espPh:'Título: 2 ou 3 palavras',espAuto:'Automático: ',espN:'Especificação (opcional)',note:'Complete o que quiser. O tempo é obrigatório.',fm:'Mapear',fi:'Agir',fr:'Retorno',conf:'Confirmar investimento',confd:'Ver Retorno',miss:'Falta: ',mMeta:'meta',mPer:'tempo',mInv:'recipientes',ok:'Investimento confirmado · ',closes:'fecha em ',atEnd:'avalie ao terminar',bay:'Como sua previsão se mistura?',lastN:'Da última vez você escreveu:',pdq:'Quanto tempo por dia você planeja dedicar?',opt:'(opcional)',pday:'por dia',draft:'Rascunho salvo',reset:'Reiniciar',afq:'Sobre o afeto',afr:'Se você mudar uma resposta, as seguintes são refeitas.',prev:'Tela anterior',next:'Próxima tela"
  },
  "k0553": {
   "es": "en '+PERN[c]:'al",
@@ -2520,8 +2520,8 @@
   "pt": "Investimentos sem retorno',none:'Você não tem investimentos pendentes.',reg:'Registrar sem previsão',reev:'Reavaliar uma já avaliada',pthis:'este tempo',ptm:'Tempo',ptq:'Que tempo você vai registrar?',parea:'Que nível pesou mais? (opcional)',ra:'Ação',rad:'Algo que você fez sem prever.',rp:'Período',rpd:'Sem expectativa prévia. Os mesmos passos que com previsão"
  },
  "k0632": {
-  "es": "Resumen del retorno',sumq:'Expectativa y realidad',se:'Energía',ss:'Satisfacción',sc:'Cumplimiento',st:'Tiempo',sa:'Afecto',sob:'Obstáculo',spl:'Plan',exp:'Esperado',real:'Real',plan100:'lo planeado',conf:'Confirmar retorno',confd:'Ver evolución',ok:'Retorno confirmado',miss:'Falta: ',mv:'recipientes',md:'cumplimiento',mt:'tiempo',ma:'afecto',dia:'día',dias:'días',back:'Volver al retorno',hw:'¿Cómo te fue en",
-  "pt": "Resumo do retorno',sumq:'Expectativa e realidade',se:'Energia',ss:'Satisfação',sc:'Cumprimento',st:'Tempo',sa:'Afeto',sob:'Obstáculo',spl:'Plano',exp:'Esperado',real:'Real',plan100:'o planejado',conf:'Confirmar retorno',confd:'Ver evolução',ok:'Retorno confirmado',miss:'Falta: ',mv:'recipientes',md:'cumprimento',mt:'tempo',ma:'afeto',dia:'dia',dias:'dias',back:'Voltar ao retorno',hw:'Como foi"
+  "es": "Resumen de resultados',sumq:'Expectativa y realidad',se:'Energía',ss:'Satisfacción',sc:'Cumplimiento',st:'Tiempo',sa:'Afecto',sob:'Obstáculo',spl:'Plan',exp:'Esperado',real:'Real',plan100:'lo planeado',conf:'Confirmar retorno',confd:'Ver evolución',ok:'Retorno confirmado',miss:'Falta: ',mv:'recipientes',md:'cumplimiento',mt:'tiempo',ma:'afecto',dia:'día',dias:'días',back:'Volver al retorno',hw:'¿Cómo te fue en",
+  "pt": "Resumo dos resultados',sumq:'Expectativa e realidade',se:'Energia',ss:'Satisfação',sc:'Cumprimento',st:'Tempo',sa:'Afeto',sob:'Obstáculo',spl:'Plano',exp:'Esperado',real:'Real',plan100:'o planejado',conf:'Confirmar retorno',confd:'Ver evolução',ok:'Retorno confirmado',miss:'Falta: ',mv:'recipientes',md:'cumprimento',mt:'tempo',ma:'afeto',dia:'dia',dias:'dias',back:'Voltar ao retorno',hw:'Como foi"
  },
  "k0633": {
   "es": "Elegir acción invertida",
@@ -3164,12 +3164,12 @@
   "pt": "Salvo"
  },
  "k0793": {
-  "es": "El plan: divides, de a poco, tus necesidades en metas específicas.",
-  "pt": "O plano: você divide, aos poucos, suas necessidades em metas específicas."
+  "es": "Para cada necesidad, imaginas cómo satisfacerla: eso es una expectativa.<br>El plan: divides, de a poco, tus expectativas en metas, y cada meta en acciones específicas.<br>Al actuar, comparamos lo que esperabas con el resultado, y así aprendes qué te satisface de verdad.",
+  "pt": "Para cada necessidade, você imagina como satisfazê-la: isso é uma expectativa.<br>O plano: você divide, aos poucos, suas expectativas em metas, e cada meta em ações específicas.<br>Ao agir, comparamos o que você esperava com o resultado, e assim você aprende o que te satisfaz de verdade."
  },
  "k0794": {
-  "es": "Con tus metas divididas, apostamos a que tus deseos van a",
-  "pt": "Com suas metas divididas, apostamos que seus desejos vão"
+  "es": "Con tus acciones específicas, apostamos a que tus expectativas van a",
+  "pt": "Com suas ações específicas, apostamos que suas expectativas vão"
  },
  "k0795": {
   "es": "fluir de las",
@@ -3852,8 +3852,8 @@
   "pt": "Sua luz de referência"
  },
  "k0965": {
-  "es": "deseamos",
-  "pt": "desejamos"
+  "es": "necesitamos",
+  "pt": "precisamos"
  },
  "k0966": {
   "es": "llenar tu frasco de satisfacción",
@@ -3864,8 +3864,8 @@
   "pt": "Apostemos juntos"
  },
  "k0968": {
-  "es": "pero en la realidad podemos no tener solo una expectativa",
-  "pt": "mas na realidade podemos não ter só uma expectativa"
+  "es": "pero en la realidad, ¿tenemos solo una expectativa?",
+  "pt": "mas na realidade, temos só uma expectativa?"
  },
  "k0969": {
   "es": "Qué ayuda con la soledad",
@@ -4422,5 +4422,25 @@
  "k1107": {
   "es": "Revisión del grupo que propone la teoría; su función sigue en debate.",
   "pt": "Revisão do grupo que propõe a teoria; sua função segue em debate."
+ },
+ "k1108": {
+  "es": "Comparamos juntos los resultados",
+  "pt": "Comparamos juntos os resultados"
+ },
+ "k1109": {
+  "es": "Mapeamos juntos tus expectativas",
+  "pt": "Mapeamos juntos suas expectativas"
+ },
+ "k1110": {
+  "es": "¿O miles de expectativas?",
+  "pt": "Ou milhares de expectativas?"
+ },
+ "k1111": {
+  "es": "…cumplirse cada vez más, más alineadas con tu realidad",
+  "pt": "…cumprir-se cada vez mais, mais alinhadas com sua realidade"
+ },
+ "k1112": {
+  "es": "expectativas simples",
+  "pt": "expectativas simples"
  }
 }
