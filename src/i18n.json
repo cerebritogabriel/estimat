@@ -1404,8 +1404,8 @@
   "pt": "Escuro"
  },
  "k0353": {
-  "es": "Más bien agradable',n:'Más bien desagradable',z:'Neutro',z0:'Neutro',h:'Más bien intenso',l:'Más bien leve',vq:'¿Cuán agradable?',iq:'¿Con qué intensidad?',il:'Más bien leve',im:'Media',if:'Más bien fuerte',vn:'Desagradable',vp:'Agradable',il0:'Leve',if0:'Fuerte',p0:'Agradable',n0:'Desagradable',mv:'Mueve la barra',int:'intensidad ',ord1:'Empezar por el nivel',ord0:'Empezar por el",
-  "pt": "Mais para agradável',n:'Mais para desagradável',z:'Neutro',z0:'Neutro',h:'Mais para intenso',l:'Mais para leve',vq:'Quão agradável?',iq:'Com que intensidade?',il:'Mais para leve',im:'Média',if:'Mais para forte',vn:'Desagradável',vp:'Agradável',il0:'Leve',if0:'Forte',p0:'Agradável',n0:'Desagradável',mv:'Mova a barra',int:'intensidade ',ord1:'Começar pelo nível',ord0:'Começar pelo"
+  "es": "Más bien agradable',n:'Más bien desagradable',z:'Neutro',z0:'Neutro',h:'Más bien intenso',l:'Más bien leve',vq:'¿Cuán agradable?',iq:'¿Cuánto te mueve?',il:'Más bien leve',im:'Media',if:'Más bien fuerte',vn:'Desagradable',vp:'Agradable',il0:'Leve',if0:'Fuerte',p0:'Agradable',n0:'Desagradable',mv:'Mueve la barra',int:'intensidad ',ord1:'Empezar por el nivel',ord0:'Empezar por el",
+  "pt": "Mais para agradável',n:'Mais para desagradável',z:'Neutro',z0:'Neutro',h:'Mais para intenso',l:'Mais para leve',vq:'Quão agradável?',iq:'Quanto isso te move?',il:'Mais para leve',im:'Média',if:'Mais para forte',vn:'Desagradável',vp:'Agradável',il0:'Leve',if0:'Forte',p0:'Agradável',n0:'Desagradável',mv:'Mova a barra',int:'intensidade ',ord1:'Começar pelo nível',ord0:'Começar pelo"
  },
  "k0354": {
   "es": "elegir fecha',prev:'Mes anterior',next:'Mes siguiente',type:'O escríbela:',clr:'Quitar plazo',w:['L','M','M','J','V','S','D'],m:['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre",
