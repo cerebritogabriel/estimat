@@ -2520,8 +2520,8 @@
   "pt": "Investimentos sem retorno',none:'Você não tem investimentos pendentes.',reg:'Registrar sem previsão',reev:'Reavaliar uma já avaliada',pthis:'este tempo',ptm:'Tempo',ptq:'Que tempo você vai registrar?',parea:'Que nível pesou mais? (opcional)',ra:'Ação',rad:'Algo que você fez sem prever.',rp:'Período',rpd:'Sem expectativa prévia. Os mesmos passos que com previsão"
  },
  "k0632": {
-  "es": "Resumen de resultados',sumq:'Expectativa y realidad',se:'Esfuerzo',ss:'Satisfacción',sc:'Cumplimiento',st:'Tiempo',sa:'Afecto',sob:'Obstáculo',spl:'Plan',exp:'Expectativa',real:'Realidad',plan100:'lo planeado',conf:'Confirmar retorno',confd:'Ver evolución',ok:'Retorno confirmado',miss:'Falta: ',mv:'recipientes',md:'cumplimiento',mt:'tiempo',ma:'afecto',dia:'día',dias:'días',back:'Volver al retorno',hw:'¿Cómo te fue en",
-  "pt": "Resumo dos resultados',sumq:'Expectativa e realidade',se:'Esforço',ss:'Satisfação',sc:'Cumprimento',st:'Tempo',sa:'Afeto',sob:'Obstáculo',spl:'Plano',exp:'Expectativa',real:'Realidade',plan100:'o planejado',conf:'Confirmar retorno',confd:'Ver evolução',ok:'Retorno confirmado',miss:'Falta: ',mv:'recipientes',md:'cumprimento',mt:'tempo',ma:'afeto',dia:'dia',dias:'dias',back:'Voltar ao retorno',hw:'Como foi"
+  "es": "Resumen de resultados',sumq:'Expectativa y realidad',se:'Esfuerzo',ss:'Satisfacción',sc:'Cumplimiento',st:'Tiempo',sa:'Afecto',sob:'Obstáculo',spl:'Plan',exp:'Expectativa',real:'Realidad',plan100:'lo planeado',conf:'Confirmar resultados',confd:'Ver evolución',ok:'Resultados guardados',miss:'Falta: ',mv:'recipientes',md:'cumplimiento',mt:'tiempo',ma:'afecto',dia:'día',dias:'días',back:'Volver a editar',hw:'¿Cómo te fue en",
+  "pt": "Resumo dos resultados',sumq:'Expectativa e realidade',se:'Esforço',ss:'Satisfação',sc:'Cumprimento',st:'Tempo',sa:'Afeto',sob:'Obstáculo',spl:'Plano',exp:'Expectativa',real:'Realidade',plan100:'o planejado',conf:'Confirmar resultados',confd:'Ver evolução',ok:'Resultados salvos',miss:'Falta: ',mv:'recipientes',md:'cumprimento',mt:'tempo',ma:'afeto',dia:'dia',dias:'dias',back:'Voltar para editar',hw:'Como foi"
  },
  "k0633": {
   "es": "Elegir acción invertida",
