@@ -1,5 +1,5 @@
 /* ESTIMAT: funciona sin conexión. Prueba la red primero; si falla, usa la copia guardada. */
-const V = 'estimat-v29';
+const V = 'estimat-v30';
 const CORE = ['./', 'index.html', 'pt.html', 'oscuro.html', 'pt-oscuro.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
